@@ -1,2 +1,59 @@
 # my-coding-challenges
-"A personal archive of coding test preparations, focusing on Python implementation and MySQL query solutions."
+
+파이썬과 MySQL 쿼리 문제 해결을 위한 코딩테스트 문제풀이 아카이빙을 할 예정입니다.
+
+- 문제를 최대한 분석한 후, 해결방안을 구상하며 문제풀이 및 학습 
+- 문제 유형별 진행 상황 파악 가능하기 위해 디렉터리 구조를 반영할 생각입니다.
+- 효율적인 연습을 구상 중에 있습니다.
+
+
+## 디렉터리 예시구조(변동 가능성 있음)
+```
+my-coding-challenges/
+├── python/
+│   ├── basics/             # 기본 문법 및 내장함수 활용
+│   ├── string/             # 문자열 처리 문제
+│   ├── array/              # 배열, 리스트 관련 문제
+│   ├── implementation/     # 구현 문제
+│   └── search/            # 탐색 문제
+│
+├── sql/
+│   ├── select/            # SELECT 문 기본
+│   ├── group_by/         # GROUP BY, 집계함수
+│   ├── join/             # 다양한 JOIN 문제
+│   └── subquery/         # 서브쿼리 활용
+│
+└── notes/                # 학습 노트, 팁, 트릭 정리
+    ├── python_tips.md
+    └── sql_tips.md
+```
+
+## 파일 구성
+
+### Python & SQL 솔루션
+- 각 문제마다 별도의 파일로 저장.
+- 파일 이름 규칙: `플랫폼_문제번호.py/sql`
+- 각 솔루션은 다음 내용을 포함:
+  - 문제 링크 (주석)
+  - 간단한 문제 설명
+  - 해결 방법 설명
+  - 시간/공간 복잡도 (해당되는 경우)
+
+예시:
+```python
+# platform_problem1234.py
+"""
+문제: [문제 제목]
+링크: [문제 URL]
+설명: 문제에 대한 간단한 설명
+"""
+```
+
+### 학습 노트
+`notes/` 디렉토리에는 다음 내용이 포함됩니다:
+- 자주 사용하는 파이썬 패턴과 구현 방법
+- 유용한 SQL 문법과 함수
+- 문제 해결 접근 방식
+- 성능 최적화 팁
+
+
