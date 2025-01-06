@@ -6,28 +6,6 @@
 - 문제 유형별 진행 상황 파악 가능하기 위해 디렉터리 구조를 반영할 생각입니다.
 - 효율적인 연습을 구상 중에 있습니다.
 
-
-## 디렉터리 예시구조(변동 가능성 있음)
-```
-my-coding-challenges/
-├── python/
-│   ├── basics/             # 기본 문법 및 내장함수 활용
-│   ├── string/             # 문자열 처리 문제
-│   ├── array/              # 배열, 리스트 관련 문제
-│   ├── implementation/     # 구현 문제
-│   └── search/            # 탐색 문제
-│
-├── sql/
-│   ├── select/            # SELECT 문 기본
-│   ├── group_by/         # GROUP BY, 집계함수
-│   ├── join/             # 다양한 JOIN 문제
-│   └── subquery/         # 서브쿼리 활용
-│
-└── notes/                # 학습 노트, 팁, 트릭 정리
-    ├── python_tips.md
-    └── sql_tips.md
-```
-
 ## 파일 구성
 
 ### Python & SQL 솔루션
