@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131537
+-- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/151141
 -- 간단한 문제 설명 : 
 -- 테이블 스키마 :
 --   - 테이블명 : 
@@ -10,3 +10,5 @@
 -- 시간/공간 복잡도 :
 --   - 시간복잡도 : 
 --   - 공간복잡도 : 
+
+
