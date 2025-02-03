@@ -13,4 +13,5 @@
 #   - 공간 복잡도: O(1) - 상수 공간만 사용
 
 inputs = input()
+
 print(ord(inputs))
