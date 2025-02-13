@@ -2,5 +2,8 @@
 # 간단한 문제 설명 : 서울의 오늘 날짜를 출력하는 프로그램을 작성하시오.
 # 해결 방법 설명 : 
 
-# 서울의 오늘 날짜. 
-# 날짜 불러오는게 뭐였더라...
+import datetime
+now = datetime.datetime.now()
+
+date = now.date()
+print(date)
