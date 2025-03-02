@@ -4,17 +4,16 @@
 # 시간/공간 복잡도 : O(N) (참가자의 수에 비례하여 시간과 공간이 소요됨)
 
 # 입력 받기
-N = int(input())  # 참가자의 수
-max_score = 0  # 최고 점수 초기화
 
-# 각 참가자의 점수 계산
+N = int(input())
+
+score_list = []
+
 for _ in range(N):
-    a, d, g = map(int, input().split())
-    score = a * (d + g)
-    if a == (d + g):
-        score *= 2
-    if score > max_score:
-        max_score = score
+    a, d, g = map(int, input().split(" "))
+    if a == (d+g):
+        score_list.append(2 * a * (d + g))
+    else:
+        score_list.append(a * (d + g))
 
-# 결과 출력
-print(max_score)
+print(max(score_list))
