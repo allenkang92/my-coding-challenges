@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25881
+# 문제 링크 : https://www.acmicpc.net/problem/25881
 # 문제 설명:
 #   고객들이 사용한 전기 사용량에 따라 전기요금을 계산하는 문제입니다.
 #   전기 회사는 에너지 절약을 위해 처음 1000 KWH까지는 낮은 요율,

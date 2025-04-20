@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31048
+# 문제 링크 : https://www.acmicpc.net/problem/31048
 # 간단한 문제 설명 : 주어진 정수 N에 대해 N!의 마지막 자릿수를 계산
 # 해결 방법 설명 : N!을 계산하고 마지막 자릿수를 출력
 # 시간/공간 복잡도 : O(T * N)

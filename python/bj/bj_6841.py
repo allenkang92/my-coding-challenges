@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/6841
+# 문제 링크 : https://www.acmicpc.net/problem/6841
 # 문제 설명:
 #   입력된 문자 단축어에 대해 대응하는 문장을 출력하는 프로그램입니다.
 #   단축어가 번역 테이블에 있으면 번역된 결과를 출력하고,

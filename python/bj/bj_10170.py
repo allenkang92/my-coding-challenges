@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10170
+# 문제 링크 : https://www.acmicpc.net/problem/10170
 # 간단한 문제 설명 : NFC 서부와 북부 디비전 순위를 출력하는 프로그램을 작성하시오.
 # 해결 방법 설명 : 주어진 ASCII 아트를 그대로 출력
 # 시간/공간 복잡도 : O(1)

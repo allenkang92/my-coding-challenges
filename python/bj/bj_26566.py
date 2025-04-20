@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26566
+# 문제 링크 : https://www.acmicpc.net/problem/26566
 # 간단한 문제 설명:
 #   피자를 두 가지 방식으로 구매할 수 있다:
 #   1. 피자 조각: 면적 A1, 가격 P1

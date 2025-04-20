@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/4458
+# 문제 링크 : https://www.acmicpc.net/problem/4458
 # 문제 설명:
 #   입력으로 주어지는 여러 문장에서 각 줄의 첫 번째 글자를 대문자로 변경하여 출력한다.
 #

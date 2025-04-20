@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120834
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120834
 # 간단한 문제 설명 : 
 #   PROGRAMMERS-962 행성에서 나이를 알파벳으로 표현합니다.
 #   a는 0, b는 1, c는 2, ..., j는 9에 해당합니다.

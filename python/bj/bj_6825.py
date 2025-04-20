@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/6825
+# 문제 링크 : https://www.acmicpc.net/problem/6825
 # 문제 설명:
 #   BMI(Body Mass Index)를 계산하여, 해당되는 범주에 따라 메시지를 출력하는 문제입니다.
 #   BMI = weight / (height ** 2)

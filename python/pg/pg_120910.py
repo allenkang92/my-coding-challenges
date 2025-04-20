@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120910
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120910
 # 간단한 문제 설명 : 
 #   어떤 세균은 1시간에 두 배만큼 증식합니다.
 #   처음 세균의 마리수 n과 경과한 시간 t가 주어질 때, t시간 후 세균의 수를 계산합니다.

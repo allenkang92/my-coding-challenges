@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/8723
+# 문제 링크 : https://www.acmicpc.net/problem/8723
 # 문제 설명:
 #   Bajtuś(바이투시)는 숲에서 3개의 막대기를 찾았다.
 #   이 막대기들을 이용해 직각 삼각형이나 정삼각형을 만들 수 있는지 확인하려 한다.

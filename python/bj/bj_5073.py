@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5073 
+# 문제 링크 : https://www.acmicpc.net/problem/5073 
 # 간단한 문제 설명 : 
 #   세 변의 길이를 입력받아 삼각형의 종류를 판별하는 문제입니다.
 #   - Equilateral: 세 변의 길이가 모두 같은 경우

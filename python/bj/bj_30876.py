@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30876
+# 문제 링크 : https://www.acmicpc.net/problem/30876
 # 문제 설명:
 #   Southern Fuegian Railway는 N개의 역과 N-1개의 철로로 구성되어 있다.
 #   각 역 i는 (x_i, y_i)에 위치하며, j번째 철로는 역 j와 역 j+1을 잇는다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/4589
+# 문제 링크 : https://www.acmicpc.net/problem/4589
 # 간단한 문제 설명 :
 #   주어진 각 그룹의 세 정수(각 그룹은 gnome들의 수염 길이)가 오름차순이나 내림차순이면 "Ordered",
 #   아니라면 "Unordered"를 출력하는 문제입니다.

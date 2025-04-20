@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/3009
+# 문제 링크 : https://www.acmicpc.net/problem/3009
 # 간단한 문제 설명 : 
 #   축에 평행한 직사각형의 세 점이 주어졌을 때, 네 번째 점을 찾는 문제입니다.
 #

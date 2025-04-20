@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/20833
+# 문제 링크 : https://www.acmicpc.net/problem/20833
 # 문제 설명:
 #   Nadja는 한 변의 길이가 1인 작은 큐브들을 이어 붙여서 한 변의 길이가 1부터 N까지인
 #   각각의 큰 큐브를 만들고자 합니다.

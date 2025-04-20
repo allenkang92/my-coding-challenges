@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32905
+# 문제 링크 : https://www.acmicpc.net/problem/32905
 # 간단한 문제 설명 : 
 #   RACI 매트릭스가 올바르게 구성되었는지 확인하는 문제
 #   RACI 매트릭스는 프로젝트 이해관계자들의 역할을 나타냄

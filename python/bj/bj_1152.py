@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/1152
+# 문제 링크 : https://www.acmicpc.net/problem/1152
 # 간단한 문제 설명 : 
 #   영어 대소문자와 공백으로 이루어진 문자열에서
 #   단어의 개수를 세는 프로그램

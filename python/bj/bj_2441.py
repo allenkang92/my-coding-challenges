@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2441
+# 문제 링크 : https://www.acmicpc.net/problem/2441
 # 문제 설명:
 #   첫째 줄에는 별 N개, 둘째 줄에는 별 N-1개, ..., N번째 줄에는 별 1개를 찍는다.
 #   오른쪽을 기준으로 정렬된 별을 출력하는 문제이다.

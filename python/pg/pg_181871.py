@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181871
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181871
 # 간단한 문제 설명 : 문자열 myString에서 pat이 몇 번 등장하는지 세는 문제입니다.
 # 해결 방법 설명 : 1. myString을 순회하며 각 위치에서 pat 길이만큼의 부분 문자열 확인
 #                2. pat과 일치하는 경우 카운트 증가

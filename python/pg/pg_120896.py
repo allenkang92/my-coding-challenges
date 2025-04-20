@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120896
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120896
 # 간단한 문제 설명 : 
 #   문자열에서 한 번만 등장하는 문자를 사전 순으로 정렬하여 반환합니다.
 #

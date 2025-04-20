@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/11720
+# 문제 링크 : https://www.acmicpc.net/problem/11720
 # 간단한 문제 설명 : 
 #   N개의 숫자가 공백 없이 주어질 때 모든 숫자의 합을 구하는 프로그램
 #

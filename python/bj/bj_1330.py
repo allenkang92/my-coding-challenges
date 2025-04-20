@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/1330
+# 문제 링크 : https://www.acmicpc.net/problem/1330
 # 간단한 문제 설명 : 
 # 두 정수 A와 B가 주어질 때, A와 B를 비교하여 A가 B보다 크면 '>'를, 작으면 '<'를, 같으면 '=='를 출력하는 프로그램을 작성한다.
 #

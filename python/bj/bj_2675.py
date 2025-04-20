@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2675
+# 문제 링크 : https://www.acmicpc.net/problem/2675
 # 간단한 문제 설명 : 
 #   문자열 S의 각 문자를 R번 반복하여 새로운 문자열 P 생성
 #   QR Code alphanumeric 문자만 입력으로 주어짐

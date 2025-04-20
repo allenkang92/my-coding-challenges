@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6063
+# 문제 링크 : https://codeup.kr/problem.php?id=6063
 # 간단한 문제 설명 :
 #   입력된 두 정수(a, b) 중 큰 값을 3항 연산자를 사용하여 출력하는 문제입니다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120840
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120840
 # 간단한 문제 설명 : balls개의 서로 다른 구슬 중 share개를 고르는 조합의 수를 계산합니다.
 # 해결 방법 설명 : 조합 공식 nCr = n!/(r!(n-r)!)을 사용합니다.
 #                팩토리얼 계산을 위해 반복문을 사용하고,

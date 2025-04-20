@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/19602
+# 문제 링크 : https://www.acmicpc.net/problem/19602
 # 문제 설명:
 #   Barley 개가 하루 동안 받은 간식에 따라 행복 점수를 계산하는 문제입니다.
 #   간식은 small, medium, large 세 가지 크기로 주어지며, 각 간식의 점수는 다음과 같습니다.

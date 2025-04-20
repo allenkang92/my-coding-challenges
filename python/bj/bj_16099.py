@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/16099
+# 문제 링크 : https://www.acmicpc.net/problem/16099
 # 문제 설명:
 #   TelecomParisTech와 Eurecom 두 학교의 스포츠 시설 면적을 비교하는 문제입니다.
 #   각 학교의 스포츠 필드 크기는 가로와 세로 길이로 주어지며,

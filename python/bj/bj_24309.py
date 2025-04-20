@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24309
+# 문제 링크 : https://www.acmicpc.net/problem/24309
 # 문제 설명:
 #   주어진 자연수 a, b, c에 대해 등식 a * x = b - c를 만족하는 x를 구하는 문제입니다.
 #   (조건: 0 < c < b ≤ 10^100, 0 < a ≤ 10^17)

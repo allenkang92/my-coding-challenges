@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120838
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120838
 # 간단한 문제 설명 : 
 #   공백으로 구분된 모스부호 문자열을 영어 소문자로 해독하는 문제입니다.
 #

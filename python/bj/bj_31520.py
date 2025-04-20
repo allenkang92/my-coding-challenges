@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31520
+# 문제 링크 : https://www.acmicpc.net/problem/31520
 # 간단한 문제 설명 : 주어진 숫자가 Champernowne 단어인지 확인하고, 몇 번째 단어인지 출력
 # 해결 방법 설명 : 1부터 시작하여 숫자를 순서대로 이어붙여가며 주어진 숫자와 비교
 # 시간/공간 복잡도 : O(k) (k는 Champernowne 단어의 길이)

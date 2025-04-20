@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30585
+# 문제 링크 : https://www.acmicpc.net/problem/30585
 # 간단한 문제 설명 : 
 #   팝잇(Pop-it) 장난감에서 모든 돌기를 같은 상태로 만들기 위한 최소 전환 횟수 구하기
 #   - 팝잇은 h x w 크기의 직사각형 모양

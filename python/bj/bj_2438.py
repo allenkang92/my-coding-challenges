@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2438
+# 문제 링크 : https://www.acmicpc.net/problem/2438
 # 간단한 문제 설명 : 
 #   N번째 줄에 별 N개를 출력하는 문제
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181890
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181890
 # 간단한 문제 설명 : 'l'과 'r' 중 먼저 나오는 문자를 기준으로 왼쪽 또는 오른쪽 부분을 반환합니다.
 # 해결 방법 설명 : 1. str_list를 순회하며 'l'이나 'r'을 찾습니다.
 #                2. 'l'이 먼저 나오면 해당 위치 왼쪽을, 'r'이 먼저 나오면 오른쪽을 반환합니다.

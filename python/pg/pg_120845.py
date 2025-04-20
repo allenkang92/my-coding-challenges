@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120845
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120845
 # 간단한 문제 설명 :
 #   주사위의 개수를 구하는 문제입니다. 상자(box)의 가로, 세로, 높이에
 #   주사위 모서리 길이 n을 나눈 몫을 모두 곱하면 상자에 들어갈 수 있는 주사위의 최대 개수입니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181911
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181911
 # 간단한 문제 설명 : 여러 문자열에서 지정된 부분을 추출하여 이어 붙입니다.
 # 해결 방법 설명 : 1. my_strings와 parts를 같은 인덱스로 순회
 #                2. 각 문자열에서 parts가 지정한 범위의 부분 문자열 추출

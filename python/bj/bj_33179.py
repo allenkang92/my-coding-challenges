@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33179
+# 문제 링크 : https://www.acmicpc.net/problem/33179
 # 간단한 문제 설명 : 
 #   헤자르다스탄 회사의 연간 보고서를 양면 인쇄할 때 필요한 A4 용지 수 계산하기
 #   - 각 챕터는 항상 홀수 페이지에서 시작해야 함

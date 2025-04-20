@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6035
+# 문제 링크 : https://codeup.kr/problem.php?id=6035
 # 간단한 문제 설명 : 실수 2개를 입력받아 곱을 출력합니다.
 # 해결 방법 설명 : 1. input().split()으로 두 수를 분리합니다.
 #                2. map(float, ...)를 사용하여 각 수를 실수로 변환합니다.

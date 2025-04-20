@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27324
+# 문제 링크 : https://www.acmicpc.net/problem/27324
 # 간단한 문제 설명 : 
 #   2자리 정수 N이 주어질 때, 십의 자리와 일의 자리가 같으면 1을, 다르면 0을 출력하는 문제입니다.
 #

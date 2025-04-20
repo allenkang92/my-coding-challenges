@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33165
+# 문제 링크 : https://www.acmicpc.net/problem/33165
 # 간단한 문제 설명 :
 #   비太郎가 T초 동안, 초당 V m의 속도로 달렸을 때,
 #   총 몇 m를 달렸는지 구하는 문제.

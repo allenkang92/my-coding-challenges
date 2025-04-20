@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/15439
+# 문제 링크 : https://www.acmicpc.net/problem/15439
 # 문제 설명:
 #   베라는 상의 N벌과 하의 N벌이 있다.
 #   i번째 상의와 i번째 하의는 모두 색상 i를 가지고 있으며, 모든 색상은 서로 다르다.

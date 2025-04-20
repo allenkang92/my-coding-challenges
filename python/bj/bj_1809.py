@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/1809
+# 문제 링크 : https://www.acmicpc.net/problem/1809
 # 간단한 문제 설명 : 소 ASCII 아트 출력
 # 해결 방법 설명 : 주어진 ASCII 아트를 그대로 출력
 # 시간/공간 복잡도 : O(1)

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/22155
+# 문제 링크 : https://www.acmicpc.net/problem/22155
 # 문제 설명:
 #   Russian Code Cup의 "Простая задача" 문제에서는, 각 문제의 해결에 사용된
 #   분기(조건문) 연산자 개수 i와 반복(루프) 연산자 개수 f가 주어진다.

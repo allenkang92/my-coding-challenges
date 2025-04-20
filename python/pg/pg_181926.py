@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181926
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181926
 # 간단한 문제 설명 : 정수 n과 문자열 control이 주어질 때, control의 각 문자에 따라 n을 조작한 최종 값을 반환합니다.
 #                  - "w": n이 1 증가
 #                  - "s": n이 1 감소 

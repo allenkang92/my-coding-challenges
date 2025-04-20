@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120844
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120844
 # 간단한 문제 설명 : 
 #   정수가 담긴 배열 numbers와 문자열 direction가 매개변수로 주어집니다.
 #   배열 numbers의 원소를 direction 방향으로 한 칸씩 회전시킨 배열을 반환합니다.

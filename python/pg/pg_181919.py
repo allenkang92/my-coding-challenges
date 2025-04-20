@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181919
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181919
 # 간단한 문제 설명 : 임의의 1,000 이하의 양의 정수 n이 주어질 때, 초기값이 n인 콜라츠 수열을 return 합니다.
 # 해결 방법 설명 : n이 1이 될 때까지 다음 연산을 반복합니다.
 #                  - n이 짝수이면 n을 2로 나눕니다.

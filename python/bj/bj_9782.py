@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/9782
+# 문제 링크 : https://www.acmicpc.net/problem/9782
 # 문제 설명:
 #   각 줄마다 주어진 데이터 그룹의 중앙값(Median)을 구하는 문제입니다.
 #   각 줄의 첫 번째 정수는 데이터의 개수 n이며, 그 후 n개의 정수가 정렬된 상태로 주어집니다.

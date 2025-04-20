@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33571
+# 문제 링크 : https://www.acmicpc.net/problem/33571
 # 간단한 문제 설명 : 
 #   주어진 문자열에서 각 글자에 있는 구멍의 개수를 세는 문제
 #   특정 알파벳과 디미고 로고(@)에는 구멍이 있음

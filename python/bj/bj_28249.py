@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/28249
+# 문제 링크 : https://www.acmicpc.net/problem/28249
 # 문제 설명:
 #   Ron은 다양한 종류의 고추를 사용하여 칠리를 만들고 있습니다.
 #   각 고추의 매운 정도는 Scoville Heat Units (SHU)로 측정됩니다.

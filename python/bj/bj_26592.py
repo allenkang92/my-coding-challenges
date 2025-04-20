@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26592
+# 문제 링크 : https://www.acmicpc.net/problem/26592
 # 문제 설명:
 #   수학 선생님께서 삼각형의 넓이와 밑변의 길이가 주어졌을 때 삼각형의 높이를 구하는 프로그램을 요청하셨습니다.
 #   삼각형의 넓이 공식: area = (height * base) / 2

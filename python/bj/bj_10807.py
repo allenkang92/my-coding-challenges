@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10807
+# 문제 링크 : https://www.acmicpc.net/problem/10807
 # 간단한 문제 설명 : 
 #   N개의 정수가 주어졌을 때, 정수 v가 몇 개인지 세는 프로그램
 #   입력 정수와 v는 -100 이상 100 이하

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31746
+# 문제 링크 : https://www.acmicpc.net/problem/31746
 # 문제 설명:
 #   민규가 가장 좋아하는 문자열 "SciComLove"를 N번 뒤집은 결과를 출력하는 문제입니다.
 #   문자열을 뒤집는 것은 문자열의 순서를 거꾸로 만드는 것을 의미합니다.

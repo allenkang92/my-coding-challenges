@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10813
+# 문제 링크 : https://www.acmicpc.net/problem/10813
 # 간단한 문제 설명 : 
 #   N개의 바구니에서 M번 공을 교환하는 프로그램
 #   초기에는 i번 바구니에 i번 공이 있음

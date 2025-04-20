@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/22193
+# 문제 링크 : https://www.acmicpc.net/problem/22193
 # 간단한 문제 설명 :
 #   N자리 정수 A, M자리 정수 B를 곱한 결과를 출력하는 문제
 # 해결 방법 설명 :

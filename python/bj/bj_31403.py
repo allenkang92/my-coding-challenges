@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31403
+# 문제 링크 : https://www.acmicpc.net/problem/31403
 # 문제 설명 :
 #   정수 A, B, C가 주어질 때, 두 가지 방식으로 A+B-C를 계산하여 출력합니다.
 #   1) 숫자로서 계산하면, A+B-C 입니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10156
+# 문제 링크 : https://www.acmicpc.net/problem/10156
 # 문제 설명:
 #   과자 한 개의 가격 K, 사려고 하는 과자의 개수 N, 현재 동수가 가진 돈 M이 주어질 때,
 #   동수가 부모님께 받아야 하는 모자란 돈을 계산하는 문제입니다.

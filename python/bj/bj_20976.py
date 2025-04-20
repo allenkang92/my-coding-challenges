@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/20976
+# 문제 링크 : https://www.acmicpc.net/problem/20976
 # 문제 설명:
 #   세 개의 정수 A, B, C가 주어질 때, 이들 중 두 번째로 큰 수를 출력하는 문제입니다.
 #

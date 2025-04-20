@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30676
+# 문제 링크 : https://www.acmicpc.net/problem/30676
 # 간단한 문제 설명 : 주어진 파장에 따라 별의 색을 출력하는 문제
 # 해결 방법 설명 : 파장 범위에 따라 해당하는 색을 출력
 # 시간/공간 복잡도 : O(1)

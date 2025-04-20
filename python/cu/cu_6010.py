@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6010
+# 문제 링크 : https://codeup.kr/problem.php?id=6010
 # 간단한 문제 설명 : 정수를 입력받아 정수형으로 변환하여 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 문자열 입력 받기
 #                2. int() 함수로 문자열을 정수로 변환

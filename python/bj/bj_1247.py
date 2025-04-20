@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/1247
+# 문제 링크 : https://www.acmicpc.net/problem/1247
 # 문제 설명:
 #   N개의 정수가 주어지면, 이 정수들의 합 S의 부호를 구하는 문제이다.
 #

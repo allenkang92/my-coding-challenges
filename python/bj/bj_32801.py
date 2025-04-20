@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32801
+# 문제 링크 : https://www.acmicpc.net/problem/32801
 # 간단한 문제 설명 : 일반화된 FizzBuzz 문제에서 "Fizz", "Buzz", "FizzBuzz"가 각각 몇 번 출력되는지 계산
 # 해결 방법 설명 : a와 b의 최소공배수를 구하고, 각 조건에 맞는 숫자의 개수를 계산
 # 시간/공간 복잡도 : O(1)

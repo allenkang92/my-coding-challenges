@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10768
+# 문제 링크 : https://www.acmicpc.net/problem/10768
 # 문제 설명:
 #   사용자로부터 입력받은 월(M)과 일(D)에 따라,
 #   날짜가 2월 18일 이전이면 "Before", 이후이면 "After", 

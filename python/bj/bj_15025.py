@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/15025
+# 문제 링크 : https://www.acmicpc.net/problem/15025
 # 문제 설명:
 #   주어진 왼쪽(l)과 오른쪽(r)의 뿔(또는 가지)의 개수를 이용하여, 
 #   다음과 같이 무스의 종류를 판정하는 문제입니다.

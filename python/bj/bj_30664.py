@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30664
+# 문제 링크 : https://www.acmicpc.net/problem/30664
 # 간단한 문제 설명 :
 #   각 테스트 케이스마다 주어지는 숫자(최대 30자리)가 42의 배수인지 판별한다.
 #   만약 42의 배수라면 "PREMIADO"를 출력하고, 그렇지 않다면 "TENTE NOVAMENTE"를 출력한다.

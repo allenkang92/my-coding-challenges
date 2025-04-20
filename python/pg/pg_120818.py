@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120818
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120818
 # 간단한 문제 설명 :
 #   옷가게에서 구매 금액에 따른 할인율을 적용하여 최종 지불할 금액을 구하는 문제.
 #

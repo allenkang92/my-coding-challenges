@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25311
+# 문제 링크 : https://www.acmicpc.net/problem/25311
 # 간단한 문제 설명 : 
 #   UCPC 예선 연도를 입력받아, 그 해의 출제진이 의도한 가장 쉬운 문제의 번호(영어 대문자)를 출력하는 문제
 # 해결 방법 설명 :

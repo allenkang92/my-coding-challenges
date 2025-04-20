@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/23235
+# 문제 링크 : https://www.acmicpc.net/problem/23235
 # 간단한 문제 설명 : 
 #   첫 줄에 N과 N개의 정수가 주어지며 모두 비내림차순(sorted) 상태
 #   N=0 이 들어오면 반복 종료

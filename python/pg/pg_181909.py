@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181909
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181909
 # 간단한 문제 설명 : 문자열의 모든 접미사(suffix)를 구하고 사전순으로 정렬합니다.
 # 해결 방법 설명 : 1. 문자열의 각 인덱스부터 끝까지의 부분 문자열을 구합니다.
 #                2. 구한 접미사들을 리스트에 저장하고 정렬합니다.

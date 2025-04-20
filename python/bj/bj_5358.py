@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5358
+# 문제 링크 : https://www.acmicpc.net/problem/5358
 # 문제 설명:
 #   Football Team 문제는 키보드 오작동으로 'i'와 'e'가 서로 바뀐 이름들을
 #   올바른 철자로 복원하는 문제입니다.

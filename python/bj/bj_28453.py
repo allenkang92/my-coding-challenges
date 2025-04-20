@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/28453
+# 문제 링크 : https://www.acmicpc.net/problem/28453
 # 문제 설명:
 #   메이플스토리 게임에서는 플레이어의 레벨에 따라 구간이 나뉩니다.
 #   - 레벨이 300이면 "만렙"으로 구간 1입니다.

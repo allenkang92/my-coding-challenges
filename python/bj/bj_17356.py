@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/17356
+# 문제 링크 : https://www.acmicpc.net/problem/17356
 # 간단한 문제 설명 : 욱의 욱제력 A와 제의 욱제력 B가 주어질 때, 욱이 제를 이길 확률을 계산하는 문제입니다.
 #
 # 해결 방법 설명 :            

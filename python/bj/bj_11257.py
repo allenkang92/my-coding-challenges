@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/11257
+# 문제 링크 : https://www.acmicpc.net/problem/11257
 # 문제 설명:
 #   IT Passport Examination에서는 총 100문제로 구성된 시험에서 세 개의 분야(Strategy 35%, Management 25%, Technology 40%)
 #   에 대해서 각각 점수가 주어집니다.

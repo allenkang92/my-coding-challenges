@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26082
+# 문제 링크 : https://www.acmicpc.net/problem/26082
 # 간단한 문제 설명 :
 #   경쟁사 제품의 가격 A, 경쟁사 제품의 성능 B, WARBOY의 가격 C가 주어질 때,
 #   경쟁사 제품의 가격 대비 성능은 B / A 이며, WARBOY는 가격 대비 성능이 경쟁사 제품의 3배입니다.

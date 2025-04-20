@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/11021
+# 문제 링크 : https://www.acmicpc.net/problem/11021
 # 간단한 문제 설명 : 
 #   테스트 케이스마다 두 정수 A와 B를 입력받아 A+B를 출력
 #   각 케이스는 "Case #x: " 형식으로 출력

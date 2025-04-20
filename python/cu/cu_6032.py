@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6032
+# 문제 링크 : https://codeup.kr/problem.php?id=6032
 # 간단한 문제 설명 : 정수를 입력받아 부호를 바꾸어 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 정수를 입력받습니다.
 #                2. int() 함수로 입력값을 정수로 변환합니다.

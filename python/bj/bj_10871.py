@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10871
+# 문제 링크 : https://www.acmicpc.net/problem/10871
 # 간단한 문제 설명 : 
 #   정수 N개로 이루어진 수열 A와 정수 X가 주어짐
 #   수열 A에서 X보다 작은 수를 모두 출력

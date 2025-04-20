@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120814
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120814
 # 간단한 문제 설명 : 
 #   피자를 일곱 조각으로 자른다.
 #   피자를 나눠 먹을 사람의 수 n이 주어졌을 때,

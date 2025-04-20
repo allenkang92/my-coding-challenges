@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27213
+# 문제 링크 : https://www.acmicpc.net/problem/27213
 # 문제 설명:
 #   Anya는 m x n 크기의 직사각형을 그리고, 그 직사각형의 테두리에 있는 모든 칸을 색칠했습니다.
 #   직사각형의 테두리에 해당하는 칸의 개수를 구하는 문제입니다.

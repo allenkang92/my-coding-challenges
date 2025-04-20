@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29790
+# 문제 링크 : https://www.acmicpc.net/problem/29790
 # 문제 설명:
 #   임스는 비공식 메이플컵 출제진 지원 자격을 평가하기 위한 두 가지 조건을 정했다.
 #   조건은 다음과 같다:

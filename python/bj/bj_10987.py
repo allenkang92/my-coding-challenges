@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10987
+# 문제 링크 : https://www.acmicpc.net/problem/10987
 # 문제 설명:
 #   알파벳 소문자로만 이루어진 단어가 주어질 때, 모음(a, e, i, o, u)의 개수를 출력하는 문제입니다.
 #

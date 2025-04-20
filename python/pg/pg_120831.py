@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120831
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120831
 # 간단한 문제 설명 : 
 #   정수 n이 주어질 때, n 이하의 모든 짝수를 더한 값을 반환하는 문제입니다.
 #

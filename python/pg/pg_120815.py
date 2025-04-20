@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120815
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120815
 # 간단한 문제 설명 :
 #   피자를 여섯 조각으로 자른 후, n명이 남김없이 모두 같은 수의 조각을 먹기 위해 필요한 최소 피자 판 수를 구하는 문제.
 #

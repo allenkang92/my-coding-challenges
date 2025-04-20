@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2739
+# 문제 링크 : https://www.acmicpc.net/problem/2739
 # 간단한 문제 설명 : 
 #   N을 입력받은 뒤, 구구단 N단을 출력하는 프로그램을 작성한다.
 #   N은 1보다 크거나 같고, 9보다 작거나 같다.

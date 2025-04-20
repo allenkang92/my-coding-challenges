@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181942
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181942
 # 간단한 문제 설명 : 길이가 같은 두 문자열 str1과 str2의 각 문자가 번갈아 등장하는 문자열을 만들어 반환합니다.
 # 해결 방법 설명 : for문을 사용해 두 문자열의 각 인덱스에 있는 문자를 번갈아 추가한 후, join() 메서드로 하나의 문자열로 합칩니다.
 # 시간/공간 복잡도 : O(n) (두 문자열의 길이에 비례)

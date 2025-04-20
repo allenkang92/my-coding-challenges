@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181880
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181880
 # 간단한 문제 설명 : 주어진 숫자들을 1로 만들기 위해 필요한 연산 횟수를 구합니다.
 # 해결 방법 설명 : 1. 각 숫자에 대해 반복:
 #                   - 짝수면 2로 나누기

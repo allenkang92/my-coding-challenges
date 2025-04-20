@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6012
+# 문제 링크 : https://codeup.kr/problem.php?id=6012
 # 간단한 문제 설명 : 두 개의 정수를 줄을 바꿔 입력받고 순서대로 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 첫 번째 정수 입력 받기
 #                2. input() 함수로 두 번째 정수 입력 받기

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27182
+# 문제 링크 : https://www.acmicpc.net/problem/27182
 # 간단한 문제 설명: 
 #   페트야는 매주 일요일마다 날씨를 기록한다.
 #   현재 일요일의 날짜가 n이고, 2주 전 일요일의 날짜가 m일 때,

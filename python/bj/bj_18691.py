@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18691
+# 문제 링크 : https://www.acmicpc.net/problem/18691
 # 문제 설명:
 #   Pokemon Go의 Buddy 업데이트에서는 포켓몬 그룹에 따라 일정 킬로미터를 걸으면 캔디가 지급된다.
 #   그룹 1은 1km마다, 그룹 2는 3km마다, 그룹 3은 5km마다 캔디를 주며, 포켓몬 진화를 위해서는 특정 개수의 캔디가 필요하다.

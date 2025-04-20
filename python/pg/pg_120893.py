@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120893
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120893
 # 간단한 문제 설명 : 
 #   문자열 my_string이 주어질 때, 대문자는 소문자로 소문자는 대문자로 변환한 문자열을 반환합니다.
 #

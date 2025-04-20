@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32498
+# 문제 링크 : https://www.acmicpc.net/problem/32498
 # 간단한 문제 설명 :
 #   지원된 문제들의 난이도 평가 중에서, 홀수인 (2로 나누어 떨어지지 않는)
 #   문제들의 개수를 세어 출력한다.

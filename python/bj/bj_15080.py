@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/15080
+# 문제 링크 : https://www.acmicpc.net/problem/15080
 # 문제 설명:
 #   택시 요금을 초 단위로 계산하기 위해,
 #   승객이 택시에 탑승한 시각과 하차한 시각이 주어진다.

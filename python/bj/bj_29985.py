@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29986
+# 문제 링크 : https://www.acmicpc.net/problem/29986
 # 문제 설명:
 #   Carlitos는 놀이공원 모험을 즐기고 싶지만, 자신의 키 때문에 타는 놀이기구에 제한이 있다.
 #   주어진 놀이기구들의 최소 키 조건과 Carlitos의 키 H가 주어질 때,

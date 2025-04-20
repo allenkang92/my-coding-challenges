@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/21612
+# 문제 링크 : https://www.acmicpc.net/problem/21612
 # 문제 설명:
 #   해수면에서는 대기 압력이 100 kPa이고 물은 100℃에서 끓습니다.
 #   해수면보다 높아지면 대기 압력이 낮아져 물의 끓는점이 낮아지고,

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25704
+# 문제 링크 : https://www.acmicpc.net/problem/25704
 # 문제 설명:
 #   쇼핑몰에서 30일간 진행하는 출석 이벤트에서,
 #   경태가 모은 출석 도장의 개수 N에 따라 교환할 수 있는 할인 쿠폰의 종류가 정해진다.

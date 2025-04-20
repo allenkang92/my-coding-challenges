@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120892
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120892
 # 문제 설명:
 #   암호화된 문자열 cipher와 정수 code가 주어질 때,
 #   cipher에서 code의 배수 번째 글자만을 추출하여 해독된 암호 문자열을 반환합니다.

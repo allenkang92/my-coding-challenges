@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26731
+# 문제 링크 : https://www.acmicpc.net/problem/26731
 # 간단한 문제 설명: 
 #   영어 대문자 알파벳 26개 중 25개만 주어지는데, 빠진 한 글자를 찾는 문제
 # 해결 방법 설명:

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/15873
+# 문제 링크 : https://www.acmicpc.net/problem/15873
 # 문제 설명:
 #   공백 없이 붙어 있는 자연수 A, B가 입력으로 주어질 때, A+B의 값을 출력하는 문제입니다.
 #   (단, 0 < A, B ≤ 10)

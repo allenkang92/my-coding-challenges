@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26561
+# 문제 링크 : https://www.acmicpc.net/problem/26561
 # 문제 설명:
 #   Emily의 나라에서는 7초에 한 명씩 사망하고, 4초에 한 명씩 탄생한다고 추정됩니다.
 #   시작 인구 p와 경과 시간 t가 주어지면, t초가 지난 후의 추정 인구수를 구하는 문제입니다.

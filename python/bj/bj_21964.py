@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/21964
+# 문제 링크 : https://www.acmicpc.net/problem/21964
 # 문제 설명:
 #   주어진 문자열 S의 마지막 5글자를 출력하는 문제입니다.
 #

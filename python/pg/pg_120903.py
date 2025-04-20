@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120903
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120903
 # 간단한 문제 설명 : 
 #   두 배열 s1과 s2가 주어졌을 때, 두 배열에 공통으로 존재하는 원소(문자열)의 개수를 구하는 문제입니다.
 #

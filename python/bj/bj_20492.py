@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/20492
+# 문제 링크 : https://www.acmicpc.net/problem/20492
 # 간단한 문제 설명 :
 #   대회 상금에 대해 두 가지 경우의 실제 수령액을 계산하는 문제
 #   1) 전체 상금의 22%를 제세공과금으로 납부하는 경우

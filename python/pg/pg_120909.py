@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120909
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120909
 # 간단한 문제 설명 : 
 #   정수 n이 주어질 때, n이 제곱수라면 1을, 아니라면 2를 반환하는 문제입니다.
 #

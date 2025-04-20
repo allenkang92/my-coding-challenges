@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181927
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181927
 # 간단한 문제 설명 : 정수 리스트에서 마지막 원소가 그전 원소보다 크면 그 차이를 추가하고,
 #                  작거나 같으면 마지막 원소의 두 배를 추가한 리스트를 반환합니다.
 # 해결 방법 설명 : 리스트의 마지막 원소[-1]와 그 전 원소[-2]를 비교하여 

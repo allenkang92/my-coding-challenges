@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31615
+# 문제 링크 : https://www.acmicpc.net/problem/31615
 # 문제 설명:
 #   두 정수 A, B가 주어진다.
 #   A와 B의 합을 십진법으로 표현했을 때 몇 자릿수인지를 구하는 문제이다.

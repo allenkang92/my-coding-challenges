@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5086
+# 문제 링크 : https://www.acmicpc.net/problem/5086
 # 간단한 문제 설명 : 
 #   - 두 수가 주어졌을 때, 첫 번째 숫자가 두 번째 숫자의 약수(factor)인지, 
 #     첫 번째 숫자가 두 번째 숫자의 배수(multiple)인지, 둘 다 아닌지(neither)를 판별합니다.

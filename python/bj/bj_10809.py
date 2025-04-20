@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10809
+# 문제 링크 : https://www.acmicpc.net/problem/10809
 # 간단한 문제 설명 : 
 #   알파벳 소문자로만 이루어진 단어에서
 #   각 알파벳의 첫 등장 위치를 찾는 프로그램

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5691
+# 문제 링크 : https://www.acmicpc.net/problem/5691
 # 문제 설명:
 #   두 정수 A와 B가 주어진다.
 #   세 정수 A, B, C의 평균은 (A+B+C)/3이며, 세 정수의 중앙값은 크기순으로 정렬했을 때 가운데에 위치하는 숫자이다.

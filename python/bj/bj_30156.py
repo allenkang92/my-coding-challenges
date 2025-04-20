@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30156
+# 문제 링크 : https://www.acmicpc.net/problem/30156
 # 문제 설명:
 #   Malvika는 풍선의 색깔에 대해 특이한 취향을 가지고 있다.
 #   풍선 문자열 s는 'a'와 'b'로만 이루어지고, 각각 amber(호박색)과 brass(황동색)을 의미한다.

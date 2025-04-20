@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181852
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181852
 # 간단한 문제 설명 : 정수로 이루어진 리스트 num_list에서 가장 작은 5개의 수를 제거한 후, 남은 숫자들을 반환합니다.
 # 해결 방법 설명 : 5번 반복하면서 매번 리스트를 오름차순으로 정렬하고 최소값을 제거하여,
 #                가장 작은 5개의 요소를 제거합니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2743
+# 문제 링크 : https://www.acmicpc.net/problem/2743
 # 간단한 문제 설명 : 
 #   알파벳으로만 이루어진 단어를 입력받아
 #   그 길이를 출력하는 프로그램

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33191
+# 문제 링크 : https://www.acmicpc.net/problem/33191
 # 간단한 문제 설명 : 
 #   Mahya는 Yalda 축제를 위해 하나의 전통 아이템을 구매하려 함
 #   제한된 예산(b)으로 선호도 순서대로 아이템을 선택해야 함

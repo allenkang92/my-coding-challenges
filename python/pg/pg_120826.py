@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120826
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120826
 # 간단한 문제 설명 : 
 #   문자열 my_string에서 letter를 제거한 문자열을 반환합니다.
 #

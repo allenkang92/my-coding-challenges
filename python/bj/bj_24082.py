@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24082
+# 문제 링크 : https://www.acmicpc.net/problem/24082
 # 간단한 문제 설명 :
 #   한 변의 길이가 X cm인 정육면체(立方体)의 부피를 구하는 문제입니다.
 #

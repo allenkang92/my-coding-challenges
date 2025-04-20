@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120850
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120850
 # 간단한 문제 설명 : 
 #   문자열 my_string이 매개변수로 주어질 때, my_string 안에 있는 숫자만 골라 오름차순 정렬한 리스트를 반환합니다.
 #

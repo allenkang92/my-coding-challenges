@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/3052
+# 문제 링크 : https://www.acmicpc.net/problem/3052
 # 간단한 문제 설명 : 
 #   10개의 수를 입력받아 42로 나눈 나머지를 구하고
 #   서로 다른 나머지가 몇 개인지 출력하는 프로그램

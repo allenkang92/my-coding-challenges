@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5300
+# 문제 링크 : https://www.acmicpc.net/problem/5300
 # 문제 설명:
 #   N명의 해적에게 1부터 N까지 번호를 매긴 후,
 #   6명마다 "Go!"를 출력하는 문제입니다.

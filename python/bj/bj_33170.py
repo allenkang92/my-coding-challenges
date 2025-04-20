@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33170
+# 문제 링크 : https://www.acmicpc.net/problem/33170
 # 문제 설명:
 #   3개의 정수 A, B, C가 주어질 때, 이들의 합이 21 이하이면 1, 초과하면 0을 출력하는 문제입니다.
 #

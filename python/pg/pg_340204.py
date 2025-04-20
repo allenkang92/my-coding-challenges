@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/340204
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340204
 # 간단한 문제 설명 : 환자 코드의 마지막 4글자를 확인하여 해당하는 병과를 출력합니다.
 # 해결 방법 설명 : 문자열의 슬라이싱을 사용하여 마지막 4글자를 추출하고,
 #                조건문으로 각 병과에 해당하는 경우를 처리합니다.

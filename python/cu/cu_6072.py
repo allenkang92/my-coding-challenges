@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6072
+# 문제 링크 : https://codeup.kr/problem.php?id=6072
 # 간단한 문제 설명 :
 #   정수(1~100)를 입력받아 카운트다운을 출력하는 문제입니다.
 #

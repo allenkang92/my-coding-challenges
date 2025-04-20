@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/17010
+# 문제 링크 : https://www.acmicpc.net/problem/17010
 # 문제 설명:
 #   이 문제는 압축된 메시지를 해제하는 문제입니다.
 #   입력의 첫 줄에 메시지의 줄 수 L이 주어집니다.

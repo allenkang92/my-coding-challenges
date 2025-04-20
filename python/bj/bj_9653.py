@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/9653
+# 문제 링크 : https://www.acmicpc.net/problem/9653
 # 간단한 문제 설명 : 스타워즈 로고를 예제 출력과 같이 출력하는 프로그램을 작성
 # 해결 방법 설명 : 주어진 ASCII 아트를 그대로 출력
 # 시간/공간 복잡도 : O(1)

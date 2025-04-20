@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181831
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181831
 # 간단한 문제 설명 : n x n 크기의 이차원 배열에서 arr[i][j] = arr[j][i]가 모든 i,j에 
 #                  대해 성립하는지 확인합니다.
 # 해결 방법 설명 : 모든 원소에 대해 대칭되는 위치의 값이 같은지 확인하고,

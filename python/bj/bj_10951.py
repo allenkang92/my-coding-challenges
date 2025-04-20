@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10951
+# 문제 링크 : https://www.acmicpc.net/problem/10951
 # 간단한 문제 설명 : 
 #   두 정수 A와 B를 입력받아 합을 출력
 #   입력이 끝날 때까지(EOF) 계속 진행

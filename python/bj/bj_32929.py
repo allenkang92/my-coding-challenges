@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32929
+# 문제 링크 : https://www.acmicpc.net/problem/32929
 # 문제 설명:
 #   UOS 문자열은 "UOS"가 무한히 반복되는 문자열입니다.
 #   양의 정수 x가 주어질 때, UOS 문자열의 x번째 문자를 구하는 문제입니다.

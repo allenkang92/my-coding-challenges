@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26545
+# 문제 링크 : https://www.acmicpc.net/problem/26545
 # 간단한 문제 설명 : 
 #   n개의 정수를 입력받아 모두 더한 값을 출력하는 문제입니다.
 #

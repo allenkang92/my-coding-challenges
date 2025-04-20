@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25238
+# 문제 링크 : https://www.acmicpc.net/problem/25238
 # 문제 설명:
 #   메이플스토리 몬스터의 방어율 a와 유저의 방무(b, %)가 주어질 때,
 #   유저가 체감하는 몬스터의 방어율은 a - (a × (b / 100))로 계산됩니다.

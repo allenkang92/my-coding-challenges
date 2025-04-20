@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6070
+# 문제 링크 : https://codeup.kr/problem.php?id=6070
 # 간단한 문제 설명 :
 #   월이 입력되면 해당하는 계절 이름을 출력하는 문제입니다.
 #

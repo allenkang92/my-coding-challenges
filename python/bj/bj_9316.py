@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/9316
+# 문제 링크 : https://www.acmicpc.net/problem/9316
 # 간단한 문제 설명:
 #   주어진 N개의 테스트케이스에 대해 "Hello World, Judge i!"를 출력하는 문제입니다.
 #

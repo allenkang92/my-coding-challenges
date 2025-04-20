@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10810
+# 문제 링크 : https://www.acmicpc.net/problem/10810
 # 간단한 문제 설명 : 
 #   N개의 바구니와 M번의 공 넣기 시도
 #   각 시도마다 i부터 j까지의 바구니에 k번 공을 넣음

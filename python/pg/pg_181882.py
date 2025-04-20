@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181882
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181882
 # 간단한 문제 설명 : 정수 배열 arr에서 각 원소를 조건에 맞게 변환하여 반환합니다.
 #                  - 값이 50 이상인 짝수라면 해당 값을 2로 나눕니다.
 #                  - 값이 50 미만인 홀수라면 해당 값을 2 곱합니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/9086
+# 문제 링크 : https://www.acmicpc.net/problem/9086
 # 간단한 문제 설명 : 
 #   문자열의 첫 글자와 마지막 글자를 출력하는 프로그램
 #   입력은 대문자로만 이루어진 문자열

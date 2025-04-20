@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5575
+# 문제 링크 : https://www.acmicpc.net/problem/5575
 # 문제 설명:
 #   JOI 상사의 3명의 직원 A, B, C의 출근 시간과 퇴근 시간이 주어졌을 때,
 #   각 직원의 근무시간(시, 분, 초)을 계산하여 출력하는 문제입니다.

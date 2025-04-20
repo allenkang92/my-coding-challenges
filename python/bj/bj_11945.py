@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/11945
+# 문제 링크 : https://www.acmicpc.net/problem/11945
 # 간단한 문제 설명 : 
 #   입력으로 주어진 붕어빵의 모양을 좌우 반전시켜 출력하는 문제입니다.
 #

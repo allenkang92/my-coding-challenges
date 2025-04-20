@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181838
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181838
 # 간단한 문제 설명 : 두 날짜 배열 date1, date2가 [year, month, day] 형식으로 주어질 때,
 #                  date1이 date2보다 앞선 날짜면 1을, 아니면 0을 반환합니다.
 # 해결 방법 설명 : 연도, 월, 일을 순서대로 비교하여 date1이 더 앞선 날짜인지 판단합니다.

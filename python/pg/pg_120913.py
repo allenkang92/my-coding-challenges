@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120913
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120913
 # 간단한 문제 설명 : 문자열을 n길이씩 잘라서 배열로 만듭니다.
 # 해결 방법 설명 : 1. 문자열을 n개씩 슬라이싱하여 리스트에 저장
 #                2. range(0, len(my_str), n)으로 n간격으로 인덱스 생성

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26546
+# 문제 링크 : https://www.acmicpc.net/problem/26546
 # 문제 설명:
 #   문자열에서 특정 구간의 부분 문자열을 제거하는 프로그램을 작성합니다.
 #   입력으로 문자열과 두 정수 i, j가 주어지며, 

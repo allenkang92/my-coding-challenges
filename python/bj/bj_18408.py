@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18408
+# 문제 링크 : https://www.acmicpc.net/problem/18408
 # 문제 설명:
 #   3개의 정수 A, B, C가 주어진다.
 #   각 정수는 1 또는 2로만 이루어져 있으며, 1과 2 중 어느 쪽이 더 많이 등장하는지 판단하는 문제이다.

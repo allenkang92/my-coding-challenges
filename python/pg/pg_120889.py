@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120889
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120889
 # 문제 설명:
 #   삼각형의 완성 조건(1) 문제입니다.
 #   주어진 배열 sides는 삼각형의 세 변의 길이를 나타냅니다.

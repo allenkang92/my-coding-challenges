@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5339
+# 문제 링크 : https://www.acmicpc.net/problem/5339
 # 간단한 문제 설명 : 콜센터에 앉아있는 C3PO를 그리는 프로그램을 작성
 # 해결 방법 설명 : 주어진 ASCII 아트를 그대로 출력
 # 시간/공간 복잡도 : O(1)

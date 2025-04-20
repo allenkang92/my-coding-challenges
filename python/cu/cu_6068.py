@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6068
+# 문제 링크 : https://codeup.kr/problem.php?id=6068
 # 간단한 문제 설명 :
 #   점수(0~100)를 입력받아 평가를 출력하는 문제입니다.
 #   90~100: A, 70~89: B, 40~69: C, 0~39: D

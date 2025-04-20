@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6020
+# 문제 링크 : https://codeup.kr/problem.php?id=6020
 # 간단한 문제 설명 : 주민번호 입력받아 '-'를 제거하고 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 주민번호 입력받기
 #                2. replace() 함수로 '-' 문자 제거

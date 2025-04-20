@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/9699
+# 문제 링크 : https://www.acmicpc.net/problem/9699
 # 문제 설명:
 #   쌀 자루들이 주어지면, 그 중 가장 무거운 자루(최대값)를 찾아서 Orphanage House Al-Ameen에 배정하는 문제입니다.
 #

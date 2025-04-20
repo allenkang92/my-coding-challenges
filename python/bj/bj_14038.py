@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/14038
+# 문제 링크 : https://www.acmicpc.net/problem/14038
 # 문제 설명:
 #   한 대회에서 각 선수는 6게임을 진행하며, 무승부는 없습니다.
 #   게임 결과에 따라 선수를 다음 그룹으로 배정합니다:

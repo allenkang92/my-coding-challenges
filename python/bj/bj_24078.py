@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24078
+# 문제 링크 : https://www.acmicpc.net/problem/24078
 # 간단한 문제 설명 :
 #   정의된 정수 X가 주어졌을 때, X를 21로 나눈 나머지를 구하는 문제입니다.
 #

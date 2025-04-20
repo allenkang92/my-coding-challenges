@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6066
+# 문제 링크 : https://codeup.kr/problem.php?id=6066
 # 간단한 문제 설명 :
 #   3개의 정수(a, b, c)가 입력되었을 때, 각각이 짝(even) 혹은 홀(odd)인지 출력합니다.
 #

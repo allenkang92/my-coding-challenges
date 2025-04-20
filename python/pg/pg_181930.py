@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181930
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181930
 # 간단한 문제 설명 : 세 개의 주사위 숫자 a, b, c가 주어질 때, 다음 규칙에 따라 점수를 계산합니다.
 #                  - 모두 다르면: a + b + c
 #                  - 두 숫자만 같으면: (a+b+c) × (a^2 + b^2 + c^2)

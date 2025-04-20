@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6016
+# 문제 링크 : https://codeup.kr/problem.php?id=6016
 # 간단한 문제 설명 : 공백으로 구분된 두 문자를 입력받아 순서를 바꿔 출력합니다.
 # 해결 방법 설명 : 1. input().split()으로 공백으로 구분된 문자열을 리스트로 변환
 #                2. 두 변수에 각각 할당

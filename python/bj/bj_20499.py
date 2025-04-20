@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/20499
+# 문제 링크 : https://www.acmicpc.net/problem/20499
 # 간단한 문제 설명 :
 #   K/D/A의 형식으로 주어진 다리우스의 K, D, A 스탯을 보고,
 #   스탯이 "가짜(hasu)"인지 "진짜(gosu)"인지 판별하는 문제입니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/21875
+# 문제 링크 : https://www.acmicpc.net/problem/21875
 # 간단한 문제 설명 : 체스판에서 Innohorse의 이동 유형을 결정
 # 해결 방법 설명 : 시작 셀과 도착 셀의 좌표 차이를 계산하고, Innohorse의 이동 패턴을 만족하는 (x, y)를 찾음
 # 시간/공간 복잡도 : O(1)

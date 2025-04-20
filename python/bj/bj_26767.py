@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26767
+# 문제 링크 : https://www.acmicpc.net/problem/26767
 # 문제 설명:
 #   Bajtynka는 7과 11로 나누어 떨어지는 숫자에 특별한 외침을 합니다.
 #   1부터 N까지의 숫자를 출력하는데,

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26742
+# 문제 링크 : https://www.acmicpc.net/problem/26742
 # 문제 설명:
 #   Bajtazar는 Bajtocji에서 유행하는 패션 트렌드에 맞게 단색 양말만을 착용하려고 합니다.
 #   입력으로 주어지는 문자열에는 'B'와 'C' 문자가 등장하며,

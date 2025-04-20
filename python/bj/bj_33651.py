@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33651
+# 문제 링크 : https://www.acmicpc.net/problem/33651
 # 간단한 문제 설명 : 
 #   'UAPC' 표지판의 일부 문자가 제거된 경우, 제거된 문자들을 찾아내는 문제
 #   입력 문자열은 'UAPC'에서 일부 문자를 제거하고 순서를 유지한 형태임

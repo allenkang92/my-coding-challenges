@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31607
+# 문제 링크 : https://www.acmicpc.net/problem/31607
 # 문제 설명:
 #   3개의 양의 정수 A, B, C가 주어진다.
 #   이 중 한 값이 나머지 두 값의 합과 같으면 1, 그렇지 않으면 0을 출력하는 문제이다.

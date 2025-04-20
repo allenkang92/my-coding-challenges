@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120843
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120843
 # 간단한 문제 설명 : 
 #   공을 한 명 건너뛰고 던질 때, k번째로 공을 받는 사람의 번호를 구합니다.
 #

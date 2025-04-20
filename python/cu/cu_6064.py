@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6064
+# 문제 링크 : https://codeup.kr/problem.php?id=6064
 # 간단한 문제 설명 :
 #   입력된 세 정수 a, b, c 중 가장 작은 값을 3항 연산자를 중첩하여 출력하는 문제입니다.
 #

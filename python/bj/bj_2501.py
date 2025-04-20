@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2501
+# 문제 링크 : https://www.acmicpc.net/problem/2501
 # 간단한 문제 설명 : 
 #   N의 약수들 중 K번째로 작은 수를 출력하는 문제입니다.
 #   약수가 K개보다 적으면 0을 출력합니다.

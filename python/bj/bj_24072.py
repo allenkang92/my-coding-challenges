@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24072
+# 문제 링크 : https://www.acmicpc.net/problem/24072
 # 문제 설명:
 #   ビーバーのビ太郎는 오늘부터 A일 후 오전에 실가에 도착하고,
 #   오늘부터 B일 후 오전에 실가를 떠난다.

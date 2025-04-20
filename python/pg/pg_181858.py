@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181858
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181858
 # 간단한 문제 설명 : arr에서 순서대로 중복되지 않는 k개의 수를 선택합니다.
 #                  k개를 채우지 못하면 나머지를 -1로 채웁니다.
 # 해결 방법 설명 : 1. arr를 순회하며 중복되지 않는 숫자만 새 리스트에 추가

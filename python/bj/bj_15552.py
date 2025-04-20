@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/15552
+# 문제 링크 : https://www.acmicpc.net/problem/15552
 # 간단한 문제 설명 : 
 #   빠른 입출력을 위해 sys.stdin.readline()을 사용하여
 #   두 정수 A와 B를 입력받아 합을 출력하는 문제

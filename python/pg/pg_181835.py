@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181835
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181835
 # 간단한 문제 설명 : 정수 배열 arr와 자연수 k가 주어질 때,
 #                  - k가 홀수이면 arr의 모든 원소에 k를 곱하고,
 #                  - k가 짝수이면 arr의 모든 원소에 k를 더한 후,

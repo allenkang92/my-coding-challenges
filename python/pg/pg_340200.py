@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/340200
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340200
 # 간단한 문제 설명 : 닉네임의 특정 문자를 규칙에 따라 변경하고 길이를 조정합니다.
 # 해결 방법 설명 : 1. l->I, w->vv, W->VV, O->0 로 변경
 #                2. 길이가 4 미만이면 'o'를 추가

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26574
+# 문제 링크 : https://www.acmicpc.net/problem/26574
 # 간단한 문제 설명 : 
 #   n개의 숫자를 입력받아 각 숫자를 공백을 두고 두 번 출력하는 문제입니다.
 #

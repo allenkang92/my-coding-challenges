@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31614
+# 문제 링크 : https://www.acmicpc.net/problem/31614
 # 간단한 문제 설명 :
 #   주어진 정수 H (시간)와 M (분)을 입력받아, H시간 M분이 몇 분인지를 계산하여 출력한다.
 #

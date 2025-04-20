@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31611
+# 문제 링크 : https://www.acmicpc.net/problem/31611
 # 간단한 문제 설명 :
 #   오늘은 일요일이다. 정수 X가 주어졌을 때, 오늘로부터 X일 후가 화요일이면 1, 아니면 0을 출력한다.
 #

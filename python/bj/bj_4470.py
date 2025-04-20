@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/4470
+# 문제 링크 : https://www.acmicpc.net/problem/4470
 # 간단한 문제 설명 :
 #   텍스트에서 줄을 입력받은 뒤, 각 줄의 앞에 줄 번호를 붙여 출력하는 프로그램입니다.
 #

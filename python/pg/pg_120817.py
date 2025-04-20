@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120817
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120817
 # 간단한 문제 설명 :
 #   정수 배열 numbers가 매개변수로 주어질 때, 
 #   numbers 원소들의 평균 값을 반환하는 문제.

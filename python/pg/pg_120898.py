@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120898
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120898
 # 간단한 문제 설명 : 
 #   머쓱이가 할머니께 축하 편지를 작성할 때,
 #   글자 한 자당 2cm를 사용하여 편지지를 작성합니다.

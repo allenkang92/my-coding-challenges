@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/1264
+# 문제 링크 : https://www.acmicpc.net/problem/1264
 # 문제 설명 :
 #   영문 문장을 입력받아, 모음('a', 'e', 'i', 'o', 'u'의 대소문자)의 개수를 세는 문제입니다.
 #

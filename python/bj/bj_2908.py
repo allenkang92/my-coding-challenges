@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2908
+# 문제 링크 : https://www.acmicpc.net/problem/2908
 # 간단한 문제 설명 : 
 #   세 자리 수 두 개를 거꾸로 읽어서 더 큰 수를 출력
 #   예: 734 893 -> 437 398 중 큰 수인 437 출력

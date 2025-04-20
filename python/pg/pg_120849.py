@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120849
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120849
 # 간단한 문제 설명 : 
 #   문자열 my_string이 주어질 때, 모음(a, e, i, o, u)을 제거한 문자열을 반환하는 문제입니다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6078
+# 문제 링크 : https://codeup.kr/problem.php?id=6078
 # 간단한 문제 설명 :
 #   영문 소문자 'q'가 입력될 때까지 입력된 문자를 계속 출력하는 문제입니다.
 #

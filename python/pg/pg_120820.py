@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120820
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120820
 # 간단한 문제 설명 : 
 #   2022년 기준 선생님의 나이 age가 주어질 때, 
 #   선생님의 출생 연도를 반환하는 문제.

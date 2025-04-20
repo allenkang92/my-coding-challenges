@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/6749
+# 문제 링크 : https://www.acmicpc.net/problem/6749
 # 문제 설명:
 #   세 자녀의 나이는 등차수열을 이룹니다.
 #   주어진 Y(막내 아이의 나이)와 M(둘째 아이의 나이)을 이용해,

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120886
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120886
 # 간단한 문제 설명 : 
 #   문자열 before와 after가 매개변수로 주어질 때, 
 #   before의 문자 순서를 바꿔 after를 만들 수 있으면 1을, 

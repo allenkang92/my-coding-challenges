@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6079
+# 문제 링크 : https://codeup.kr/problem.php?id=6079
 # 간단한 문제 설명 : 
 #   1부터 차례대로 더했을 때, 입력된 수보다 같거나 커지게 만드는 정수를 찾는 문제입니다.
 #

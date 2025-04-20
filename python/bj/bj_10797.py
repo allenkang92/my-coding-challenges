@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10797
+# 문제 링크 : https://www.acmicpc.net/problem/10797
 # 문제 설명:
 #   서울시는 자동차 10부제를 시행 중입니다.
 #   날짜의 일의 자리와 자동차 번호의 일의 자리 숫자가 일치하면 운행이 금지됩니다.

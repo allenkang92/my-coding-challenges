@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/19698
+# 문제 링크 : https://www.acmicpc.net/problem/19698
 # 문제 설명:
 #   농부 존은 소들을 위해 새로운 헛간을 지었다.
 #   이번 추첨에는 총 N마리의 소가 응모했으며, 헛간은 W × H 크기의 직사각형이다.

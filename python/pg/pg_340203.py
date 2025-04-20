@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/340203
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340203
 # 간단한 문제 설명 : CPR 순서에 따라 각 행동의 단계 번호를 반환합니다.
 # 해결 방법 설명 : 1. 기본 순서 리스트를 정의합니다.
 #                2. 입력된 각 행동의 인덱스를 찾아 단계 번호로 변환합니다.

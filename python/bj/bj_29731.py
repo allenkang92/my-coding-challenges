@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29731
+# 문제 링크 : https://www.acmicpc.net/problem/29731
 # 간단한 문제 설명 :
 #   주어진 N개의 문장이 Rick Astley의 원래 공약에 속하는지 확인하는 문제입니다.
 #   하나라도 공약에 속하지 않는 문장이 있으면 "Yes", 모두 속하면 "No"를 출력합니다.

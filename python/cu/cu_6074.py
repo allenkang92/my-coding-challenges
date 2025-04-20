@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6074
+# 문제 링크 : https://codeup.kr/problem.php?id=6074
 # 간단한 문제 설명 : 
 #   영문 소문자(a~z) 1개가 입력되었을 때, a부터 입력된 문자까지 순서대로 출력하는 문제입니다.
 #

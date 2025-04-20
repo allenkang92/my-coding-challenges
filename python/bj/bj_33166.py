@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33166
+# 문제 링크 : https://www.acmicpc.net/problem/33166
 # 간단한 문제 설명 : 
 #   JOI 철도의 운임을 계산하는 문제:
 #   - 처음 P km까지는 1 km당 A엔

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30794
+# 문제 링크 : https://www.acmicpc.net/problem/30794
 # 간단한 문제 설명 : 
 #   클럽 오디션 게임에서 키 노트의 레벨(lv)과 판정에 따라 획득 점수를 계산하는 문제
 #   - miss: 0점

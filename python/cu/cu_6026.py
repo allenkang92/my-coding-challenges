@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6026
+# 문제 링크 : https://codeup.kr/problem.php?id=6026
 # 간단한 문제 설명 : 두 실수를 입력받아 그 합을 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 첫 번째 실수를 입력받습니다.
 #                2. input() 함수로 두 번째 실수를 입력받습니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120837
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120837
 # 간단한 문제 설명 : 
 #   개미 군단 문제
 #   사냥감 체력(hp)에 맞춰 최소의 개미를 구성하려고 합니다.

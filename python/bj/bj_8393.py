@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/8393
+# 문제 링크 : https://www.acmicpc.net/problem/8393
 # 간단한 문제 설명 : 
 #   n이 주어졌을 때, 1부터 n까지의 합을 구하는 프로그램을 작성한다.
 #   n은 1보다 크거나 같고, 10,000보다 작거나 같다.

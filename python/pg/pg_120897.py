@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120897
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120897
 # 간단한 문제 설명:
 #   정수 n의 약수를 오름차순으로 담은 배열을 반환합니다.
 #

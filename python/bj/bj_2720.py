@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2720
+# 문제 링크 : https://www.acmicpc.net/problem/2720
 # 간단한 문제 설명 : 
 #   거스름돈을 동전으로 거슬러 줄 때 각 동전의 개수를 계산하는 문제입니다.
 #   Quarter($0.25), Dime($0.10), Nickel($0.05), Penny($0.01) 순으로 계산합니다.

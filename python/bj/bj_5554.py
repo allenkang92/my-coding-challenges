@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5554
+# 문제 링크 : https://www.acmicpc.net/problem/5554
 # 문제 설명:
 #   하루 동안 측정한 이동 시간이 초 단위로 주어질 때, 총 이동 시간을 몇 분 몇 초인지 계산하는 문제이다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29736
+# 문제 링크 : https://www.acmicpc.net/problem/29736
 # 문제 설명:
 #   부대원의 문제 푼 개수가 A, A+1, ..., B로 주어진다.
 #   브실이가 푼 문제 수가 K일 때, 

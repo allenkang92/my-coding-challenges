@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25304
+# 문제 링크 : https://www.acmicpc.net/problem/25304
 # 간단한 문제 설명 : 
 #   영수증의 총 금액 X와 구매한 물건의 종류 N이 주어짐
 #   각 물건의 가격과 개수로 계산한 총 금액이 X와 일치하는지 확인

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120906
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120906
 # 간단한 문제 설명 :
 #   정수 n이 주어질 때, n의 각 자리 숫자의 합을 계산하여 반환합니다.
 #

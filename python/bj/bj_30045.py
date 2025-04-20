@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30045
+# 문제 링크 : https://www.acmicpc.net/problem/30045
 # 문제 설명:
 #   ZOAC 6의 오프닝 홍보 글에서 각 문장이 "01" 또는 "OI"를 포함하면 문장 끝에 영일이 이모티콘을 추가한다.
 #   총 몇 번의 이모티콘이 추가되는지 구하는 문제이다.

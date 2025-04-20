@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/9498
+# 문제 링크 : https://www.acmicpc.net/problem/9498
 # 간단한 문제 설명 : 
 #   주어진 시험 점수에 따라 등급을 A, B, C, D, F로 분류하는 프로그램을 작성한다.
 #   점수 범위는 다음과 같다:

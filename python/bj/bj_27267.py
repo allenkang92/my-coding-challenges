@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27267
+# 문제 링크 : https://www.acmicpc.net/problem/27267
 # 문제 설명:
 #   Masha와 Petya의 방 크기를 비교하는 문제입니다.
 #   Masha의 방은 a x b (제곱미터) 크기이고, Petya의 방은 c x d (제곱미터) 크기입니다.

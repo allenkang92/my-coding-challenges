@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6076
+# 문제 링크 : https://codeup.kr/problem.php?id=6076
 # 간단한 문제 설명 :
 #   정수(0~100)를 입력받아 0부터 그 수까지 순서대로 출력하는 문제입니다.
 #

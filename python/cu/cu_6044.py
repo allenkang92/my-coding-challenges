@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6044
+# 문제 링크 : https://codeup.kr/problem.php?id=6044
 # 간단한 문제 설명 : 정수 2개(a, b)를 입력받아 합, 차, 곱, 몫, 나머지, 나눈 값을 자동으로 계산하여 출력합니다.
 # 해결 방법 설명 : 1. input().split()으로 두 수를 분리합니다.
 #                2. map(int, ...)를 사용하여 각 수를 정수로 변환합니다.

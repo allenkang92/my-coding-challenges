@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181896
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181896
 # 간단한 문제 설명 : 정수 리스트에서 첫 번째로 나오는 음수의 인덱스를 반환하고,
 #                  음수가 없다면 -1을 반환합니다.
 # 해결 방법 설명 : 리스트를 순회하며 음수를 찾고, index() 메서드로 해당 음수의 위치를 찾습니다.

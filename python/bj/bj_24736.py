@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24736
+# 문제 링크 : https://www.acmicpc.net/problem/24736
 # 간단한 문제 설명 :
 #   두 팀(원정 팀과 홈 팀)의 풋볼 득점을 계산하는 문제
 #   득점 방식은 다음과 같다:

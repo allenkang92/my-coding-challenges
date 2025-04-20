@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29807
+# 문제 링크 : https://www.acmicpc.net/problem/29807
 # 문제 설명:
 #   김한양의 학번은 다음과 같은 공식으로 계산된다.
 #

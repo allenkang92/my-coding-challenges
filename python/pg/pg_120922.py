@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120922
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120922
 # 간단한 문제 설명 : 
 #   M x N 크기의 종이를 1 x 1 크기로 자르기 위한 최소 가위질 횟수를 구합니다.
 #

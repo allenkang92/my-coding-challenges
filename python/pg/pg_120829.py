@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120829
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120829
 # 간단한 문제 설명:
 #   각도(angle)에 따라 예각, 직각, 둔각, 평각을 분류하여
 #   예각이면 1, 직각이면 2, 둔각이면 3, 평각이면 4를 반환하는 문제.

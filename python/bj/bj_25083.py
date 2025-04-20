@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25083
+# 문제 링크 : https://www.acmicpc.net/problem/25083
 # 간단한 문제 설명 : 
 #   입력 없이 새싹 모양을 출력
 #

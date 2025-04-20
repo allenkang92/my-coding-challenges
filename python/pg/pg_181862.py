@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181862
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181862
 # 간단한 문제 설명 : 문자열 myStr에서 "a", "b", "c"를 구분자로 사용해 나눠진 문자열을 반환합니다.
 # 해결 방법 설명 : 문자열을 "a", "b", "c"로 대체한 후, 공백을 기준으로 split하여 나눕니다.
 #                 빈 문자열은 제외하고, 결과가 빈 배열이면 ["EMPTY"]를 반환합니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/11718
+# 문제 링크 : https://www.acmicpc.net/problem/11718
 # 간단한 문제 설명 : 
 #   입력받은 문자열을 그대로 출력하는 프로그램
 #   최대 100줄, 각 줄은 100글자 이하

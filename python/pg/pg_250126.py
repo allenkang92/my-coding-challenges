@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/250126
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/250126
 # 간단한 문제 설명 : 창고의 물건들을 종류별로 합치고, 가장 많은 개수를 가진 물건을 찾습니다.
 # 해결 방법 설명 : 1. 같은 물건은 하나의 위치에 개수를 합칩니다.
 #                2. 새로운 물건은 새로운 위치에 추가합니다.

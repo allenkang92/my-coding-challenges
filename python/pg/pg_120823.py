@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120823
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120823
 # 간단한 문제 설명 :
 #   정수 n이 주어지면 높이와 너비가 n인 직각 이등변 삼각형을 "*"을 이용해 출력하는 문제입니다.
 #

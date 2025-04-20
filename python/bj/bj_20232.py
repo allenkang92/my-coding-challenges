@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/20232
+# 문제 링크 : https://www.acmicpc.net/problem/20232
 # 문제 설명:
 #   Northwestern Russia Regional Contest의 문제 출제 팀이 개최한 지역 대회 역사를 기반으로,
 #   년도를 입력받아 해당 연도의 대회 우승 팀을 출력하는 프로그램을 작성하라.

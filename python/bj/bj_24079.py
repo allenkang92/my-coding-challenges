@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24079
+# 문제 링크 : https://www.acmicpc.net/problem/24079
 # 문제 설명:
 #   A 지점에서 B 지점까지 이동하는 데 X 시간이 걸리고, B 지점에서 C 지점까지 이동하는 데 Y 시간이 걸린다.
 # 즉, A 지점에서 B 지점을 거쳐 C 지점까지 이동하는 총 시간은 X + Y 시간이다.

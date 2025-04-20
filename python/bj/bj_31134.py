@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31134
+# 문제 링크 : https://www.acmicpc.net/problem/31134
 # 간단한 문제 설명 : Team LGD가 Magnus를 금지하기 시작하는 게임 번호 x에 따라, 최악의 경우에도 우승할 수 있는 최소한의 총 게임 수 n 계산
 # 해결 방법 설명 : 최악의 경우를 고려하여, Team LGD가 (n + 1) / 2 게임을 이기도록 하는 최소 n 계산
 # 시간/공간 복잡도 : O(T)

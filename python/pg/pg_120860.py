@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120860
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120860
 # 간단한 문제 설명 : 
 #   직사각형의 네 꼭짓점 좌표가 주어질 때 넓이를 구합니다.
 #

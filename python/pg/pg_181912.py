@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181912
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181912
 # 간단한 문제 설명 : 문자열 배열의 각 원소에서 s번째 위치부터 길이 l만큼의 부분 문자열을 
 #                  정수로 변환하여 k보다 큰 값만 배열로 반환합니다.
 # 해결 방법 설명 : 1. 각 문자열에서 s부터 s+l까지의 부분 문자열을 추출합니다.

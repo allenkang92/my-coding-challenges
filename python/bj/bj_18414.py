@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18414
+# 문제 링크 : https://www.acmicpc.net/problem/18414
 # 문제 설명:
 #   정수 X, L, R이 주어진다.
 #   L 이상 R 이하의 정수 중에서, X와의 차의 절대값이 가장 작은 정수를 구하는 문제이다.

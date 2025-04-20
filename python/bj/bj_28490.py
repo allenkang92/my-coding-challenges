@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/28490
+# 문제 링크 : https://www.acmicpc.net/problem/28490
 # 문제 설명:
 #   Stuart는 n개의 직사각형 액자(frame)를 가지고 있습니다.
 #   각 액자 i는 높이 h[i]와 너비 w[i]를 가지고 있으며,

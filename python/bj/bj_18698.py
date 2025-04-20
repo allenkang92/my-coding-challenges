@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18698
+# 문제 링크 : https://www.acmicpc.net/problem/18698
 # 문제 설명:
 #   Adam은 막 걷기 시작했는데, 형 Omar의 도움에도 불구하고 자주 넘어집니다.
 #   Adam은 균형을 잡기 위해 걸을 때 손을 위로 들고, 손을 내리면 넘어집니다.

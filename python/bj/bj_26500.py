@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26500
+# 문제 링크 : https://www.acmicpc.net/problem/26500
 # 문제 설명:
 #   두 실수 값이 주어졌을 때, 두 값 사이의 절대 선 거리(absolute line distance)를 구하여,
 #   소수점 첫째 자리까지 반올림한 후, 정확히 한 자리의 소수점 값을 출력하는 문제입니다.

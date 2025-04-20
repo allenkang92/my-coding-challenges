@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181895
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181895
 # 간단한 문제 설명 : 주어진 배열 arr에서 intervals의 두 구간에 해당하는 부분 배열을
 #                  순서대로 이어 붙인 새로운 배열을 반환합니다.
 # 해결 방법 설명 : 슬라이싱을 사용하여 각 구간의 배열을 추출하고,

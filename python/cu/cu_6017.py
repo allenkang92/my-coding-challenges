@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6017
+# 문제 링크 : https://codeup.kr/problem.php?id=6017
 # 간단한 문제 설명 : 입력받은 값을 동일한 줄에 3번 반복하여 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 값을 입력 받기
 #                2. print() 함수의 쉼표를 사용하여 같은 값을 3번 출력

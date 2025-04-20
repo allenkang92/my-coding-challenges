@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30979
+# 문제 링크 : https://www.acmicpc.net/problem/30979
 # 문제 설명:
 #   파댕이는 사탕을 먹으면 일정 시간 동안 울지 않는다.
 #   여러분은 파댕이를 T분 동안 돌봐야 하며, N개의 사탕을 가지고 있다.

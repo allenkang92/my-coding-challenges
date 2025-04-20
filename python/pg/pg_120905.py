@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120905
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120905
 # 간단한 문제 설명 :
 #   정수 n과 정수 배열 numlist가 주어질 때, numlist에서 n의 배수만 남긴 배열을 반환하는 문제입니다.
 #

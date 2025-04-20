@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26766
+# 문제 링크 : https://www.acmicpc.net/problem/26766
 # 간단한 문제 설명 : 
 #   N개의 ASCII 아트 하트를 세로로 출력하는 문제입니다.
 #

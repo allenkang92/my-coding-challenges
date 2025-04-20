@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26560
+# 문제 링크 : https://www.acmicpc.net/problem/26560
 # 문제 설명:
 #   Eric은 집중력이 부족해서 문장의 끝에 마침표를 찍는 것을 잊어버립니다.
 #   Eric의 문장이 마침표로 끝나지 않으면, 문장의 끝에 마침표를 추가해 출력하는 프로그램을 작성하세요.

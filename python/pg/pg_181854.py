@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181854
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181854
 # 간단한 문제 설명 : 배열 arr과 정수 n이 주어질 때, arr의 길이가 홀수면 짝수 인덱스에, 
 #                  짝수면 홀수 인덱스에 n을 더한 배열을 반환합니다.
 # 해결 방법 설명 : arr의 길이의 홀짝 여부를 확인한 후, 각 인덱스의 홀짝 여부에 따라

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=python3
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=python3
 # 간단한 문제 설명 : 
 #   머쓱이네 양꼬치 가게는 10인분을 주문하면 음료수 하나를 서비스로 제공합니다.
 #   양꼬치 1인분의 가격은 12,000원이며, 음료수 1개당 가격은 2,000원입니다.

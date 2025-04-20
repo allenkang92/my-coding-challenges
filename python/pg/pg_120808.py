@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120808
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120808
 # 간단한 문제 설명 :
 #   두 분수를 더한 값을 기약분수 형태로 반환
 #

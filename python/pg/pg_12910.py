@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/12910
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12910
 # 간단한 문제 설명 : arr의 각 원소 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환합니다. 
 #                나누어 떨어지는 원소가 하나도 없다면 배열에 -1을 담아 반환합니다.
 # 해결 방법 설명 : 반복문을 통해 arr의 각 원소가 divisor로 나누어 떨어지는지 확인하여 answer 리스트에 추가하고, 

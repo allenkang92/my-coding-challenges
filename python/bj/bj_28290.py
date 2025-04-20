@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/28290
+# 문제 링크 : https://www.acmicpc.net/problem/28290
 # 문제 설명:
 #   입력된 8자리 문자열 S에 대해,
 #   안밖 타법이면 "in-out",

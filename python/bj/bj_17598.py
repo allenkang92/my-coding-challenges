@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/17598
+# 문제 링크 : https://www.acmicpc.net/problem/17598
 # 문제 설명:
 #   Animal Kingdom의 왕인 King Dragon이 세상을 떠난 후, Animal Kingdom의 새 왕을 선출해야 합니다.
 #   총 9명의 유권자가 있으며, 후보는 Tiger와 Lion입니다.

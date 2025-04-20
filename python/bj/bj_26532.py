@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26532
+# 문제 링크 : https://www.acmicpc.net/problem/26532
 # 문제 설명:
 #   옥수수 씨앗 한 봉지는 5 에이커를 덮을 수 있으며,
 #   1 에이커는 4840 제곱야드입니다.

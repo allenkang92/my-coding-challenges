@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6036
+# 문제 링크 : https://codeup.kr/problem.php?id=6036
 # 간단한 문제 설명 : 단어와 반복 횟수를 입력받아 반복 횟수만큼 단어를 출력합니다.
 # 해결 방법 설명 : 1. input().split()으로 단어와 반복 횟수를 분리합니다.
 #                2. 반복 횟수를 정수로 변환합니다.

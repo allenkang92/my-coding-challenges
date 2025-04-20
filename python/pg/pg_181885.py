@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181885
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181885
 # 간단한 문제 설명 : 오늘 해야 할 일이 담긴 문자열 배열 todo_list와 각각의 일을 완료했는지를 나타내는 boolean 배열 finished가 주어질 때,
 #                  아직 완료하지 않은 할 일들을 순서대로 반환하는 함수입니다.
 # 해결 방법 설명 : todo_list와 finished의 동일 인덱스 요소를 비교하여, finished가 False인 경우에만 해당 todo_list의 요소를 결과 리스트에 추가합니다.

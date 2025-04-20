@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/8710
+# 문제 링크 : https://www.acmicpc.net/problem/8710
 # 문제 설명:
 #   Kozik(코직)는 농구선수가 되기 위해서 트레이너가 요구하는 키(w) 에 도달해야 한다.
 #   현재 코직의 키는 k이며, 농구선수가 되기 위해서는 최소 w의 키가 필요하다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120883
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120883
 # 간단한 문제 설명 : 
 #   입력된 아이디/비밀번호와 데이터베이스를 비교하여 로그인 결과를 반환하는 문제입니다.
 #   - 아이디/비밀번호 모두 일치: "login"

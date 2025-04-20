@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120825
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120825
 # 간단한 문제 설명 : 
 #   문자열 my_string의 각 문자를 정수 n만큼 반복하여 출력하는 문제입니다.
 #

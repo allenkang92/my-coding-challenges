@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120836
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120836
 # 간단한 문제 설명 : 
 #   자연수 n이 주어질 때, 두 숫자의 곱이 n인 자연수 순서쌍의 개수를 반환합니다.
 #

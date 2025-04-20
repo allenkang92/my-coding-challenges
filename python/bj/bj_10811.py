@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10811
+# 문제 링크 : https://www.acmicpc.net/problem/10811
 # 간단한 문제 설명 : 
 #   N개의 바구니에서 M번 구간을 역순으로 만드는 프로그램
 #   각 바구니에는 1부터 N까지 번호가 순서대로 있음

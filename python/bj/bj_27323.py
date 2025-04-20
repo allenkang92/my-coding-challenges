@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27323
+# 문제 링크 : https://www.acmicpc.net/problem/27323
 # 간단한 문제 설명 : 
 #   직사각형의 가로와 세로 길이가 주어질 때 넓이를 구하는 문제입니다.
 #

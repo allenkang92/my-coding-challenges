@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33169
+# 문제 링크 : https://www.acmicpc.net/problem/33169
 # 문제 설명 :
 #   비타로가 1000원 지폐 A장과 10000원 지폐 B장을 가지고 있을 때,
 #   전체 소지 금액을 구하는 문제입니다.

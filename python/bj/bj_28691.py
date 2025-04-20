@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/28691
+# 문제 링크 : https://www.acmicpc.net/problem/28691
 # 간단한 문제 설명 :
 #   민재가 동아리의 첫 번째 글자 하나를 이야기하면, 그 글자에 해당하는 동아리의 전체 이름을 출력하는 문제입니다.
 #

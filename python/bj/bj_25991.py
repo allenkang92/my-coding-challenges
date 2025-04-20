@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25991
+# 문제 링크 : https://www.acmicpc.net/problem/25991
 # 문제 설명:
 #   창고에 저장된 Boron Acetate Phosphoric Carbonate (BAPC) 액체를
 #   하나의 큐브 모양 용기에 모두 담으려고 합니다.

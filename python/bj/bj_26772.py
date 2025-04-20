@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26772
+# 문제 링크 : https://www.acmicpc.net/problem/26772
 # 문제 설명:
 #   Bajtek은 아름다운 Bajtolinie에게 사랑을 고백하기 위해 ASCII art로 N개의 하트(serduszka, hearts)를 가로로 나란히 출력하려고 합니다.
 #   각 하트는 아래와 같이 구성되며, 하트와 하트 사이에는 정확히 1칸의 공백이 있어야 합니다.

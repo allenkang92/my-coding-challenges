@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/14470
+# 문제 링크 : https://www.acmicpc.net/problem/14470
 # 문제 설명:
 #   JOI 군은 A℃의 고기를 전자레인지로 B℃까지 데우려고 한다.
 #   고기가 0℃ 미만이면 얼어 있는 상태로 간주하며, 얼어 있는 고기를 1℃ 데우는 데에는 C초가 걸립니다.

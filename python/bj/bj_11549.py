@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/11549
+# 문제 링크 : https://www.acmicpc.net/problem/11549
 # 문제 설명:
 #   Blind tea tasting은 감각을 통해 차의 종류를 맞추는 문제입니다.
 #   실제 차의 종류 T와 다섯 명의 참가자들이 제시한 답 A, B, C, D, E가 주어졌을 때,

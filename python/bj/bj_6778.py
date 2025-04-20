@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/6778
+# 문제 링크 : https://www.acmicpc.net/problem/6778
 # 문제 설명:
 #   목격자가 본 외계인의 안테나 수와 눈의 수를 입력받아,
 #   아래 조건에 해당하는 외계인의 이름들을 출력하는 문제입니다.

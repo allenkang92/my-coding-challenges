@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31428
+# 문제 링크 : https://www.acmicpc.net/problem/31428
 # 문제 설명:
 #   헬로빗이 지원하는 트랙과 같은 트랙을 지원하는 헬로빗의 친구들의 수를 구하는 문제입니다.
 #

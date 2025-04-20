@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120853
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120853
 # 간단한 문제 설명 : 
 #   공백으로 구분된 숫자와 "Z"로 이루어진 문자열이 주어질 때,
 #   숫자들을 순서대로 더하되 "Z"가 나오면 바로 전에 더했던 숫자를 빼는 문제입니다.

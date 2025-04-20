@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120819
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120819
 # 간단한 문제 설명 :
 #   머쓱이가 가진 돈 money로 얼만큼의 아이스 아메리카노(1잔=5,500원)를 구매할 수 있는지,
 #   그리고 남는 잔돈은 얼마인지를 구하는 문제.

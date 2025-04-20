@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181898
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181898
 # 간단한 문제 설명 : idx 이후에서 가장 먼저 나오는 1의 인덱스를 찾습니다.
 # 해결 방법 설명 : idx부터 시작하여 배열을 순회하면서 처음 만나는 1의 인덱스를 반환합니다.
 # 시간/공간 복잡도 : O(n) (n은 배열의 길이)

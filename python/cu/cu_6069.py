@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6069
+# 문제 링크 : https://codeup.kr/problem.php?id=6069
 # 간단한 문제 설명 :
 #   평가 문자(A, B, C, D 등)를 입력받아, 해당 평가에 대응하는 문자열을 출력하는 문제입니다.
 #

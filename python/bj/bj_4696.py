@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/4696
+# 문제 링크 : https://www.acmicpc.net/problem/4696
 # 문제 설명:
 #   Robert가 St. Ives로 가는 길에 만난 행렬의 크기를 기록한 데이터가 여러 해에 걸쳐 주어진다.
 #   각 데이터 셋은 한 줄에 하나의 부동소수점 숫자로 주어지며,

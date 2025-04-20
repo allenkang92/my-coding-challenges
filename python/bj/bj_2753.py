@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2753
+# 문제 링크 : https://www.acmicpc.net/problem/2753
 # 간단한 문제 설명 : 
 #   주어진 연도가 윤년이면 1, 아니면 0을 출력하는 프로그램을 작성한다.
 #   윤년의 조건은 다음과 같다:

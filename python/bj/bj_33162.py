@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33162
+# 문제 링크 : https://www.acmicpc.net/problem/33162
 # 간단한 문제 설명 : 
 #   JOI는 일직선 도로에서 산책을 하고 있음
 #   다음 행동을 교대로 반복:

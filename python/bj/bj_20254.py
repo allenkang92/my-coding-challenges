@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/20254
+# 문제 링크 : https://www.acmicpc.net/problem/20254
 # 간단한 문제 설명 :
 #   2020 타이페이-신주 지역 대회의 사이트 점수를 계산하는 문제.
 #   사이트 점수는 아래 공식으로 계산된다:

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30501
+# 문제 링크 : https://www.acmicpc.net/problem/30501
 # 문제 설명:
 #   N명의 용의자 중, 이름에 "S"가 들어있는 사람을 찾는 문제입니다.
 #   관우를 죽인 범인의 이름은 반드시 이름에 "S"가 포함되어 있습니다.

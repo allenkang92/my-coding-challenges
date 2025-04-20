@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30328
+# 문제 링크 : https://www.acmicpc.net/problem/30328
 # 간단한 문제 설명 :
 #   Jerry의 팀 수 n이 주어지면, 각 팀의 등록비 4000 달러를 곱하여 총 등록비를 구한다.
 #

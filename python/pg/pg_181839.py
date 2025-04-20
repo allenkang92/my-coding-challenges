@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181839
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181839
 # 간단한 문제 설명 : 두 주사위의 숫자 a, b가 주어질 때 다음 규칙에 따라 점수를 계산합니다.
 #                  - 둘 다 홀수: a^2 + b^2
 #                  - 하나만 홀수: 2 * (a + b)

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/2562
+# 문제 링크 : https://www.acmicpc.net/problem/2562
 # 간단한 문제 설명 : 
 #   9개의 서로 다른 자연수가 주어질 때,
 #   최댓값과 그 값이 몇 번째 수인지 출력

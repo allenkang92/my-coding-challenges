@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31090
+# 문제 링크 : https://www.acmicpc.net/problem/31090
 # 문제 설명:
 #   양의 정수 N이 주어졌을 때, N+1이 N의 끝 두 자리(즉, N % 100)로 나누어 떨어지는지 판별하는 문제입니다.
 #   조건에 맞으면 "Good"을, 그렇지 않으면 "Bye"를 출력합니다.

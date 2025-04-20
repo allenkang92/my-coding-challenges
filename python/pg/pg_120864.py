@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120864
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120864
 # 간단한 문제 설명 : 
 #   문자열에서 연속된 숫자들을 하나의 자연수로 보고, 모든 자연수의 합을 구합니다.
 #   예: "aAb1B2cC34oOp" -> 1 + 2 + 34 = 37

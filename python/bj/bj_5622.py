@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5622
+# 문제 링크 : https://www.acmicpc.net/problem/5622
 # 간단한 문제 설명 : 
 #   알파벳 대문자로 이루어진 단어를 다이얼로 걸 때 걸리는 시간 계산
 #   각 숫자를 걸기 위해서는 기본 2초 + 추가 시간이 필요

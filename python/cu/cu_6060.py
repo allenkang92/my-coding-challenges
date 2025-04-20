@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6060
+# 문제 링크 : https://codeup.kr/problem.php?id=6060
 # 간단한 문제 설명 :
 #   입력된 정수 두 개를 비트단위로 and 연산한 후 그 결과를 출력하는 문제입니다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18301
+# 문제 링크 : https://www.acmicpc.net/problem/18301
 # 간단한 문제 설명 : 주어진 n1, n2, n12 값을 이용해 Chapman 추정치(N)을 계산
 # 해결 방법 설명 : 
 #   N := ⌊((n1 + 1)(n2 + 1) / (n12 + 1)) - 1⌋

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6067
+# 문제 링크 : https://codeup.kr/problem.php?id=6067
 # 간단한 문제 설명 :
 #   음수/양수와 짝수/홀수를 판단하여 다음과 같이 분류해 출력합니다.
 #   - 음수이면서 짝수: A

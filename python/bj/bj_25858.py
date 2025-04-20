@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25858
+# 문제 링크 : https://www.acmicpc.net/problem/25858
 # 문제 설명:
 #   여름 동안 팀원들이 푼 문제 수에 따라 상금(d 달러)을 분배하는 문제입니다.
 #   첫 번째 입력 줄에는 팀원의 수 n과 나눌 총 상금 d가 주어집니다.

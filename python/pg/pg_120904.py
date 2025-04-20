@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120904
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120904
 # 간단한 문제 설명:
 #   정수 num과 k가 매개변수로 주어질 때, num을 이루는 숫자 중에 k가 있으면 
 #   num의 그 숫자가 있는 자리 수(1부터 시작)를 return하고, 없으면 -1을 return하도록 

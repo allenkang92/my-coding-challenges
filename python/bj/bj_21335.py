@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/21335
+# 문제 링크 : https://www.acmicpc.net/problem/21335
 # 문제 설명:
 #   아이슬란드 Geldingadalur에서 화산 분출로 가스가 원형 영역에 균일하게 퍼졌습니다.
 #   당국은 이 영역을 둘러싸기 위해 방호 테이프를 설치하려고 합니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6005
+# 문제 링크 : https://codeup.kr/problem.php?id=6005
 # 간단한 문제 설명 : print() 함수를 사용하여 큰따옴표가 포함된 "Hello World"를 출력합니다.
 # 해결 방법 설명 : 1. 작은따옴표로 둘러싼 문자열 안에 큰따옴표 포함
 #                2. 이스케이프 문자를 사용하는 방법도 가능

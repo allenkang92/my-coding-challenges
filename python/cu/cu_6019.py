@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6019
+# 문제 링크 : https://codeup.kr/problem.php?id=6019
 # 간단한 문제 설명 : "연도.월.일" 형식으로 입력받아 "일-월-연도" 형식으로 출력합니다.
 # 해결 방법 설명 : 1. input().split(".")으로 연, 월, 일을 분리
 #                2. print() 함수의 sep 매개변수를 사용하여 "-"로 구분해 출력

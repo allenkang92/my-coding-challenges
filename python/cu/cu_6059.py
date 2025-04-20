@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6059
+# 문제 링크 : https://codeup.kr/problem.php?id=6059
 # 간단한 문제 설명 :
 #   입력 받은 정수를 비트단위로 참/거짓(비트 반전)을 바꾼 후 정수로 출력합니다.
 #

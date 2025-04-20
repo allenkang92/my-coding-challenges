@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181925
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181925
 # 간단한 문제 설명 : numLog 배열에서 연속된 두 원소의 차이를 바탕으로 조작 문자열을 만듭니다.
 #                  - 차이가 1: "w" 추가 (1 더하기)
 #                  - 차이가 -1: "s" 추가 (1 빼기) 

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10101
+# 문제 링크 : https://www.acmicpc.net/problem/10101
 # 간단한 문제 설명 : 
 #   삼각형의 세 각을 입력받아 삼각형의 종류를 판별하는 문제입니다.
 #

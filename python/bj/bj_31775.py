@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31775
+# 문제 링크 : https://www.acmicpc.net/problem/31775
 # 문제 설명:
 #   포닉스가 정한 응원 문구가 GLOBAL하기 위해서는,
 #   주어진 3개의 문자열이 순서와 관계없이 각각 'l', 'k', 'p'로 시작해야 한다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30793
+# 문제 링크 : https://www.acmicpc.net/problem/30793
 # 간단한 문제 설명 : 
 #   선거 결과에 따른 캐릭터 타입 결정하기
 #   - p_x: 예비 선거에서 캐릭터 x가 받은 투표 수

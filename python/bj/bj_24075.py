@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24075
+# 문제 링크 : https://www.acmicpc.net/problem/24075
 # 문제 설명:
 #   두 정수 A, B가 주어질 때, A+B와 A-B 중에서 가장 큰 값과 가장 작은 값을
 #   순서대로 출력하는 문제입니다.

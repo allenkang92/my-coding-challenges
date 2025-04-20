@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120907
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120907
 # 간단한 문제 설명 : 
 #   수식 문자열 배열이 주어질 때, 각 수식이 옳으면 "O", 틀리면 "X"를 담은 배열을 반환합니다.
 #

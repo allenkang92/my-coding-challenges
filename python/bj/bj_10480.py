@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10480
+# 문제 링크 : https://www.acmicpc.net/problem/10480
 # 문제 설명:
 #   입력으로 주어진 각 정수에 대해 홀수인지 짝수인지를 판별하여,
 #   "x is odd" 또는 "x is even" 형태로 출력하는 문제입니다.

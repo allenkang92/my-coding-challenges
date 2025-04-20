@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6077
+# 문제 링크 : https://codeup.kr/problem.php?id=6077
 # 간단한 문제 설명 :
 #   정수(1~100)를 입력받아 1부터 그 수까지 짝수의 합을 구하는 문제입니다.
 #

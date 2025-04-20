@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/4714
+# 문제 링크 : https://www.acmicpc.net/problem/4714
 # 간단한 문제 설명:
 #   지구에서의 무게가 주어지면 달에서의 무게(지구 무게의 0.167배)를 계산하여,
 #   "Objects weighing X on Earth will weigh Y on the moon." 형식으로 출력하는 문제입니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25494
+# 문제 링크 : https://www.acmicpc.net/problem/25494
 # 간단한 문제 설명:
 #   세 양의 정수 a, b, c가 주어질 때, 다음 조건을 만족하는 정수 쌍 (x, y, z)의 개수를 구하는 문제
 #   - 1 ≤ x ≤ a

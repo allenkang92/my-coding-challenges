@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30319
+# 문제 링크 : https://www.acmicpc.net/problem/30319
 # 간단한 문제 설명 : 
 #   ICPC Taoyuan Regional Contest는 2023년 10월 21일부터 10월 23일까지 개최
 #   TOPC(Taiwan Online Programming Contest) 날짜는 Regional Contest보다 최소 35일 전이어야 함

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/15726
+# 문제 링크 : https://www.acmicpc.net/problem/15726
 # 문제 설명:
 #   세 수 A, B, C가 주어질 때, 한 번의 곱셈 기호와 한 번의 나눗셈 기호를 이용하여 
 #   "A ☐ B ☐ C" 형태의 식을 만들었을 때 가능한 가장 큰 값을 구하는 문제입니다.

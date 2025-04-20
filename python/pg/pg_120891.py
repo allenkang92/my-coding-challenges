@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120891
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120891
 # 문제 설명:
 #   369게임에서 주문(order) 숫자에 3, 6, 9가 포함되어 있으면 해당 숫자당 박수를 쳐야 합니다.
 #   숫자 order가 매개변수로 주어질 때, 포함된 3, 6, 9의 개수를 반환합니다.

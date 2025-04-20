@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32458
+# 문제 링크 : https://www.acmicpc.net/problem/32458
 # 간단한 문제 설명 :
 #   주어진 양의 부동소수점을 내림(바닥 함수) 처리하여 정수 부분만을 출력한다.
 #

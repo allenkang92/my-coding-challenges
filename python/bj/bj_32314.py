@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32314
+# 문제 링크 : https://www.acmicpc.net/problem/32314
 # 간단한 문제 설명 :
 #   크리스마스 트리의 전류(a, ampere)와 후보 어댑터의 전력(w, watt) 및 전압(v, volt)이 주어진다.
 #   어댑터의 전류는 (watt / volt)로 계산된다. 입력은 분수 없이 정확히 나누어 떨어진다고 가정한다.

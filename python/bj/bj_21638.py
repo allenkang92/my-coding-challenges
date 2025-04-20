@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/21638
+# 문제 링크 : https://www.acmicpc.net/problem/21638
 # 문제 설명:
 #   MCHS (러시아 긴급 상황부)에서 기상청으로부터 오늘과 내일의 기상 정보를 전달받았습니다.
 #   오늘의 기온 t1(℃)과 풍속 v1(m/s), 내일의 기온 t2(℃)과 풍속 v2(m/s)가 주어집니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10988
+# 문제 링크 : https://www.acmicpc.net/problem/10988
 # 간단한 문제 설명 : 
 #   알파벳 소문자로 이루어진 단어가 팰린드롬인지 확인
 #   팰린드롬은 앞뒤로 읽어도 같은 단어

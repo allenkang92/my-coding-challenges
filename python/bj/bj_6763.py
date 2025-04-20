@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/6763
+# 문제 링크 : https://www.acmicpc.net/problem/6763
 # 문제 설명:
 #   운전자의 속도에 따라 부과되는 벌금을 출력하는 문제입니다.
 #   속도 제한보다 빨리 달리지 않은 경우 "Congratulations, you are within the speed limit!"를 출력하고,

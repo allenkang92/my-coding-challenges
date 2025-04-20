@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30214
+# 문제 링크 : https://www.acmicpc.net/problem/30214
 # 간단한 문제 설명 :
 #   대회 절반 시간의 제출 수 s1과 최종 제출 수 s2가 주어진다.
 #   만약 s1이 s2의 절반 이상이면 문제는 "Easy" 즉, "E"로 간주되고,

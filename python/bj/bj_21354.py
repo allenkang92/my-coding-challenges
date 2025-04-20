@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/21354
+# 문제 링크 : https://www.acmicpc.net/problem/21354
 # 문제 설명:
 #   Axel과 Petra가 각각 판매한 사과와 배의 개수가 주어질 때,
 #   사과는 한 개에 7크로나, 배는 한 개에 13크로나에 판매됩니다.

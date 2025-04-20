@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/13752
+# 문제 링크 : https://www.acmicpc.net/problem/13752
 # 문제 설명:
 #   주어진 테스트 케이스마다, 정수 k에 대해 k개의 '='를 공백 없이 출력하는 히스토그램을 생성하는 문제입니다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10952
+# 문제 링크 : https://www.acmicpc.net/problem/10952
 # 간단한 문제 설명 : 
 #   두 정수 A와 B를 입력받아 합을 출력
 #   입력의 마지막에는 0 두 개가 들어오며, 이 때 프로그램 종료

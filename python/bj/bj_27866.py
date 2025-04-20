@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27866
+# 문제 링크 : https://www.acmicpc.net/problem/27866
 # 간단한 문제 설명 : 
 #   문자열 S와 위치 i가 주어지면 i번째 문자를 출력
 #

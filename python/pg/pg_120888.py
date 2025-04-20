@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120888
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120888
 # 간단한 문제 설명 : 
 #   문자열 my_string에서 중복된 문자를 제거하고, 
 #   각 문자가 처음 등장하는 순서대로 하나씩만 남긴 문자열을 반환합니다.

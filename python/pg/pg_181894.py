@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181894
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181894
 # 간단한 문제 설명 : 배열에서 모든 2를 포함하는 가장 작은 연속 부분 배열을 찾습니다.
 # 해결 방법 설명 : 1. 배열에서 2의 첫 번째와 마지막 위치를 찾습니다.
 #                2. 해당 범위의 부분 배열을 반환합니다.

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24086
+# 문제 링크 : https://www.acmicpc.net/problem/24086
 # 간단한 문제 설명 :
 #   JOI 君 (조이 군)의 1년 전 키가 A cm, 현재 키가 B cm로 주어질 때,
 #   이 1년 동안 키가 얼마나 자랐는지를 cm 단위(단위는 출력하지 않음)로 구하는 문제입니다.

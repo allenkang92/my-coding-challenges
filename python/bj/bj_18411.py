@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18411
+# 문제 링크 : https://www.acmicpc.net/problem/18411
 # 문제 설명:
 #   JOI 君는 3회의 시험을 보았으며, 시험 점수는 모두 0 이상 100 이하의 정수이다.
 #   JOI 君의 최종 성적은 3회의 시험 점수 중 높은 두 개의 합으로 결정된다.

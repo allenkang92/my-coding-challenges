@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/24084
+# 문제 링크 : https://www.acmicpc.net/problem/24084
 # 간단한 문제 설명: 
 #   길이 N의 문자열 S가 주어지며, 각 문자는 J, O, I 중 하나이다.
 #   비타로는 N-1번의 동작을 수행한다.

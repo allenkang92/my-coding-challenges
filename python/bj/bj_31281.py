@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/31281
+# 문제 링크 : https://www.acmicpc.net/problem/31281
 # 문제 설명:
 #   세 개의 서로 다른 정수 a, b, c가 주어진다.
 #   이 중 가장 작은 수나 가장 큰 수가 아닌, 중간에 위치하는 수를 출력하는 프로그램을 작성하라.

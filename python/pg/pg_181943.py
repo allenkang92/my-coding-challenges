@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181948
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181948
 # 간단한 문제 설명 : 주어진 특수문자들을 정확하게 출력합니다.
 # 해결 방법 설명 : 이스케이프 문자(\)를 사용하여 특수문자를 출력합니다.
 #                작은따옴표(')와 큰따옴표(")를 출력하기 위해 백슬래시를 사용합니다.

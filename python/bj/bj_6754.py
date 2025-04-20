@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/6764
+# 문제 링크 : https://www.acmicpc.net/problem/6764
 # 문제 설명:
 #   네 개의 깊이 측정값이 주어졌을 때,
 #   측정값이 엄격하게 증가하면 "Fish Rising",

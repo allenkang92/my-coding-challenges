@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/32941
+# 문제 링크 : https://www.acmicpc.net/problem/32941
 # 간단한 문제 설명 : 
 #   건우가 X교시에 교실을 예약했을 때, 모든 조원이 참석 가능한지 확인하는 문제
 #   각 조원은 참석 가능한 교시 목록을 제공함

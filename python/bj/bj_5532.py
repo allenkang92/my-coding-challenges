@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5532
+# 문제 링크 : https://www.acmicpc.net/problem/5532
 # 문제 설명:
 #   상근이는 방학 동안 국어와 수학 숙제를 해야 한다.
 #   방학은 총 L일이며, 국어는 총 A페이지, 수학은 총 B페이지를 풀어야 한다.

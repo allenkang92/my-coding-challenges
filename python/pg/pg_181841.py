@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181841
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181841
 # 간단한 문제 설명 : 문자열 리스트 str_list와 제외하려는 문자열 ex가 주어질 때,
 #                  str_list에서 ex를 포함한 문자열을 제외하고 모든 문자열들을 순서대로 합쳐 꼬리 문자열을 만듭니다.
 # 해결 방법 설명 : str_list의 각 문자열을 순회하며, ex를 포함하지 않는 문자열만 결과 문자열(answer)에 이어 붙이고 반환합니다.

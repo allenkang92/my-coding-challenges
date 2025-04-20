@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/340202
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340202
 # 간단한 문제 설명 : 저수지의 물이 몇 달 후에 부족해지는지 계산합니다.
 # 해결 방법 설명 : 1. 매달 물 사용량을 계산하고 누적합을 구합니다.
 #                2. 누적 사용량이 저수지 용량을 초과하면 해당 월을 반환합니다.

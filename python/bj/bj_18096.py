@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/18096
+# 문제 링크 : https://www.acmicpc.net/problem/18096
 # 간단한 문제 설명 : 
 #   두 수를 생각했을 때, 특정 계산 과정을 거쳐 나온 결과를 N제곱한 값을 구하는 문제
 # 해결 방법 설명 :            

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/8674
+# 문제 링크 : https://www.acmicpc.net/problem/8674
 # 문제 설명:
 #   엄마가 피오트루시오와 파벨코에게 가로 a, 세로 b의 초콜릿 한 판을 가져왔다.
 #   두 아이는 초콜릿을 세로 또는 가로 방향으로 한 번만 자르려고 한다.

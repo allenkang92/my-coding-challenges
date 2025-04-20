@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30468
+# 문제 링크 : https://www.acmicpc.net/problem/30468
 # 문제 설명:
 #   호반우의 현재 스탯인 힘(STR), 민첩(DEX), 지능(INT), 운(LUK)과 목표 평균 스탯 수치 N이 주어진다.
 #   각 스탯은 축복을 사용하여 1씩 올릴 수 있으며, 

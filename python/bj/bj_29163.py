@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29163
+# 문제 링크 : https://www.acmicpc.net/problem/29163
 # 간단한 문제 설명 : 주어진 숫자들 중에서 짝수의 개수가 홀수의 개수보다 많으면 "Happy", 그렇지 않으면 "Sad"를 출력
 # 시간/공간 복잡도 : O(n)
 

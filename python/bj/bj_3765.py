@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/3765
+# 문제 링크 : https://www.acmicpc.net/problem/3765
 # 문제 설명:
 #   입력으로 주어진 등식(solution) 그대로, 공백까지 동일하게 출력합니다.
 #

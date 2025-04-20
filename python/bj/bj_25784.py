@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25784
+# 문제 링크 : https://www.acmicpc.net/problem/25784
 # 문제 설명:
 #   세 개의 서로 다른 양의 정수들이 주어집니다.
 #   이들 중 하나가 나머지 두 수의 합으로 표현될 수 있으면 1을 출력하고,

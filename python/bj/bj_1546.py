@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/1546
+# 문제 링크 : https://www.acmicpc.net/problem/1546
 # 간단한 문제 설명 : 
 #   시험 점수를 조작하는 방법
 #   1. 자기 점수 중 최댓값(M)을 고름

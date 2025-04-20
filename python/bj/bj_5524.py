@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5524
+# 문제 링크 : https://www.acmicpc.net/problem/5524
 # 문제 설명:
 #   JOI회사의 입실 기록으로 주어진 이름들을 모두 소문자로 변환하여 출력하는 문제입니다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181904
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181904
 # 간단한 문제 설명 : 문자열 my_string과 두 정수 m, c가 주어질 때,
 #                  한 줄에 m 글자씩 적었을 때, 왼쪽부터 세로로 c번째 열에 해당하는 문자를 모아 문자열로 반환합니다.
 # 해결 방법 설명 : 문자열의 (c-1)번째 인덱스부터 m 간격으로 slicing하여 세로 읽은 결과를 구할 수 있습니다.

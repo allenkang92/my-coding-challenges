@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6043
+# 문제 링크 : https://codeup.kr/problem.php?id=6043
 # 간단한 문제 설명 : 실수 2개(f1, f2)를 입력받아 f1을 f2로 나눈 값을 소수점 넷째 자리에서 반올림하여 소수점 셋째 자리까지 출력합니다.
 # 해결 방법 설명 : 1. input().split()으로 두 수를 분리합니다.
 #                2. map(float, ...)를 사용하여 각 수를 실수로 변환합니다.

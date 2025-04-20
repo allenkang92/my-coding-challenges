@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25314
+# 문제 링크 : https://www.acmicpc.net/problem/25314
 # 간단한 문제 설명 : 
 #   N바이트 크기의 정수를 저장할 수 있는 자료형을 출력
 #   4바이트마다 'long'이 추가되며, 마지막에 'int'가 붙음

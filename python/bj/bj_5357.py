@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/5357
+# 문제 링크 : https://www.acmicpc.net/problem/5357
 # 문제 설명:
 #   주어진 문자열에서 인접한 중복 문자를 제거하는 문제입니다.
 #   예를 들어 "AAABB"는 "AB"가 되어야 합니다.

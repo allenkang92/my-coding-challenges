@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/33163
+# 문제 링크 : https://www.acmicpc.net/problem/33163
 # 간단한 문제 설명 : 
 #   길이 N의 문자열 S가 주어지며, 각 문자는 J, O, I 중 하나임
 #   문자열의 각 문자에 대해 다음 변환을 적용:

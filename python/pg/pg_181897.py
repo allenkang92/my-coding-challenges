@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/181897
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/181897
 # 간단한 문제 설명 : n값에 따라 slicer의 a,b,c를 이용해 num_list를 다르게 슬라이싱합니다.
 #                  n=1: 0~b까지
 #                  n=2: a~끝까지  

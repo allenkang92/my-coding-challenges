@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/25932
+# 문제 링크 : https://www.acmicpc.net/problem/25932
 # 문제 설명:
 #   Dr. Orooji의 쌍둥이 맥(Mack, 저지 번호 18)과 잭(Zack, 저지 번호 17)이 축구를 합니다.
 #   한 세트에 10개의 서로 다른 선수 저지 번호(11 ~ 99)가 주어집니다.

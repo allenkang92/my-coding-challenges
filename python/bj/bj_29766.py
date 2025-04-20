@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/29766
+# 문제 링크 : https://www.acmicpc.net/problem/29766
 # 문제 설명:
 #   주어진 문자열에서 "DKSH"라는 부분 문자열이 몇 번 나타나는지 구하는 문제입니다.
 #

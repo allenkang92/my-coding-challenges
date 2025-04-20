@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27889
+# 문제 링크 : https://www.acmicpc.net/problem/27889
 # 간단한 문제 설명 :
 #   주어진 학교의 약칭에 대해, 해당 학교의 정식 명칭을 출력하는 문제입니다.
 #

@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/10818
+# 문제 링크 : https://www.acmicpc.net/problem/10818
 # 간단한 문제 설명 : 
 #   N개의 정수가 주어질 때, 최솟값과 최댓값을 구하는 프로그램
 #   정수는 -1,000,000 이상 1,000,000 이하

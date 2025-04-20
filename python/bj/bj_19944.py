@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/19944
+# 문제 링크 : https://www.acmicpc.net/problem/19944
 # 간단한 문제 설명 : 
 #   N과 M이 주어졌을 때, M학년이 뉴비, 올드비, TLE인지 구분하는 문제입니다.
 #

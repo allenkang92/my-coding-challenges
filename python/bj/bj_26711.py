@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/26711
+# 문제 링크 : https://www.acmicpc.net/problem/26711
 # 간단한 문제 설명 :
 #   매우 큰 두 양의 정수 (a, b)를 입력받아, a + b 의 합을 출력하는 문제입니다.
 #   (각 정수는 최대 5,000자리까지 주어질 수 있습니다.)

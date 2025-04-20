@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/27541
+# 문제 링크 : https://www.acmicpc.net/problem/27541
 # 문제 설명:
 #   길이 N의 문자열 S가 주어진다.
 #   만약 S의 마지막 문자가 'G'라면, 마지막 문자 'G'를 제거한 문자열을 출력하고,

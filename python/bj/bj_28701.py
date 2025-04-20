@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/28701
+# 문제 링크 : https://www.acmicpc.net/problem/28701
 # 간단한 문제 설명 :
 #   1부터 N까지의 정수에 대해 다음 세 가지 값을 차례대로 출력하는 문제입니다.
 #     1) 1부터 N까지 정수의 합, 즉 sum = 1+2+...+N

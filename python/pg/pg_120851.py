@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120851
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120851
 # 간단한 문제 설명:
 #   문자열 my_string 안의 모든 한 자리 자연수들의 합을 return합니다.
 #

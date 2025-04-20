@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://www.acmicpc.net/problem/30999
+# 문제 링크 : https://www.acmicpc.net/problem/30999
 # 문제 설명:
 #   월간 향유회에서는 민주주의적 다수결 투표 방식으로 문제의 출제 여부를 정한다.
 #   N개의 문제 후보마다 M명의 출제위원이 찬반 의견을 내고,

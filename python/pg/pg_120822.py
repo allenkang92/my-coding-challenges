@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/120822
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120822
 # 간단한 문제 설명 : 
 #   문자열 my_string이 주어질 때, 이를 거꾸로 뒤집은 문자열을 반환합니다.
 #

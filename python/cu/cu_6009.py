@@ -1,4 +1,4 @@
-# 문제 링크 (주석) : https://codeup.kr/problem.php?id=6009
+# 문제 링크 : https://codeup.kr/problem.php?id=6009
 # 간단한 문제 설명 : 키보드로부터 문자 하나를 입력받아 그대로 출력합니다.
 # 해결 방법 설명 : 1. input() 함수로 문자 입력 받기
 #                2. print() 함수로 입력받은 문자 출력
