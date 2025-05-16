@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/144854
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/144854
 -- 간단한 문제 설명 : 
 --   - BOOK 테이블과 AUTHOR 테이블을 조인하여 '경제' 카테고리에 속하는 도서의 도서 ID, 저자명, 출판일을 조회
 --   - 출판일을 기준으로 오름차순 정렬

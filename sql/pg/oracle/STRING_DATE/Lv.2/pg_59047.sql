@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59047?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59047?language=oracle
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블에서 이름에 'el'이 들어가는 개의 ANIMAL_ID와 NAME을 조회
 --   - 결과는 이름을 기준으로 오름차순 정렬

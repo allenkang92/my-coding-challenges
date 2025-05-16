@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=oracle
 -- 간단한 문제 설명 : 
 --   - CAR_RENTAL_COMPANY_RENTAL_HISTORY 테이블에서 자동차별 평균 대여 기간을 계산
 --   - 평균 대여 기간이 7일 이상인 자동차의 CAR_ID와 AVERAGE_DURATION을 조회

@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131116
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131116
 -- 간단한 문제 설명 : 
 --   - FOOD_PRODUCT 테이블을 이용하여 식품분류별로 가장 비싼 식품의 정보를 조회.
 --   - 식품분류가 '과자', '국', '김치', '식용유'인 경우만 포함.

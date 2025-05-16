@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59037?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59037?language=oracle
 -- 간단한 문제 설명 : ANIMAL_INS 테이블에서 아픈 동물의 ANIMAL_ID와 NAME을 조회하고, ANIMAL_ID 순으로 오름차순 정렬하는 SQL 쿼리를 작성하세요.
 -- 테이블 스키마 :
 --   - 테이블명 : ANIMAL_INS

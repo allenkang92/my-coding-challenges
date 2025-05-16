@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59411
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59411
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블과 ANIMAL_OUTS 테이블을 활용하여, 입양을 간 동물 중 
 --     보호 기간이 가장 길었던 동물 2마리의 ID와 이름을 조회

@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59412?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59412?language=oracle
 -- 간단한 문제 설명 : 
 --   - ANIMAL_OUTS 테이블에서 09:00부터 19:59까지의 입양 시각별 입양 건수를 조회
 --   - 결과는 시간대 순으로 정렬하며, 시간은 앞의 0을 제거하여 출력

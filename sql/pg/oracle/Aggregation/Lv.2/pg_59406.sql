@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59406?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59406?language=oracle
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블에서 동물이 몇 마리 들어왔는지 조회
 --   - 이름이 NULL인 경우도 포함하여 모든 동물의 수를 셈

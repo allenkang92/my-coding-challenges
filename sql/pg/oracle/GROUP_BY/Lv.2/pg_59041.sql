@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59041?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59041?language=oracle
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블에서 이름이 두 번 이상 사용된 동물의 이름과 그 횟수를 조회
 --   - 이름이 없는 동물은 제외

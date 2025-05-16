@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131534
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131534
 -- 간단한 문제 설명 : 
 --   - 2021년에 가입한 전체 회원 중 상품을 구매한 회원 비율
 --   - 년, 월별로 구매한 회원 수와 비율 조회

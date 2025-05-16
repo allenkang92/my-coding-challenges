@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131112?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131112?language=oracle
 -- 간단한 문제 설명 : 
 --   FOOD_FACTORY 테이블에서 강원도에 위치한 식품공장의 정보를 조회하는 문제입니다.
 --

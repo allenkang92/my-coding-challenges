@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/157339
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/157339
 -- 간단한 문제 설명 : 
 --   - 세단/SUV 중 11월 한달간 대여 가능한 차량 조회
 --   - 30일 대여시 50-200만원 사이 요금

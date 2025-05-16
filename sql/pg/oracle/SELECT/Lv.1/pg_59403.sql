@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59403?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59403?language=oracle
 -- 간단한 문제 설명 : 
 --   ANIMAL_INS 테이블에서 모든 동물의 아이디와 이름을 ANIMAL_ID 순으로 조회해야 합니다.
 --   결과는 ANIMAL_ID를 기준으로 오름차순 정렬합니다.

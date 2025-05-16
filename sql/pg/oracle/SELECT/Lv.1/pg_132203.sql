@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/132203?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/132203?language=oracle
 -- 간단한 문제 설명 : 
 --   DOCTOR 테이블에서 진료과 코드가 흉부외과(CS) 또는 일반외과(GS)인 의사의 이름, 의사ID, 진료과 코드, 고용일자를 조회해야 합니다.
 --   결과는 고용일자를 기준으로 내림차순 정렬하고, 고용일자가 같다면 의사 이름을 기준으로 오름차순 정렬합니다.

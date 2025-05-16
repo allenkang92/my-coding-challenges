@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131537
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131537
 -- 간단한 문제 설명 : 
 --   - 온라인/오프라인 판매 데이터 통합 조회
 --   - 2022년 3월 데이터만 조회

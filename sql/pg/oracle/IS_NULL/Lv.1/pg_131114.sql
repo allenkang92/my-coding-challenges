@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=oracle
 -- 간단한 문제 설명 :
 --   - FOOD_WAREHOUSE 테이블에서 경기도에 위치한 창고만 조회
 --   - FREEZER_YN 컬럼이 NULL이면 'N'으로 표시

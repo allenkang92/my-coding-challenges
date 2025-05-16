@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59044
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59044
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블과 ANIMAL_OUTS 테이블을 활용하여 입양되지 않은 동물 중 가장 오래 보호소에 있었던 동물 3마리의 이름과 보호 시작일을 조회
 --   - 결과는 보호 시작일 순으로 오름차순 정렬

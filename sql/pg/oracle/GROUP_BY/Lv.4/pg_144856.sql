@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/144856
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/144856
 -- 간단한 문제 설명 : 
 --   - 2022년 1월 도서 판매 데이터 기준 저자/카테고리별 매출액 집계
 --   - 저자ID 오름차순, 카테고리 내림차순 정렬

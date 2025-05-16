@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=oracle
 -- 간단한 문제 설명 : 
 --   - PRODUCT 테이블에서 만원 단위의 가격대 별로 상품 개수를 계산
 --   - 가격대는 각 구간의 최소 금액으로 표시하며, 오름차순으로 정렬

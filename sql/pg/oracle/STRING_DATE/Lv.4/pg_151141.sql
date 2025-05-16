@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/151141
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/151141
 -- 간단한 문제 설명 : 
 --   - 트럭 대여 기록별 대여 금액 계산
 --   - 대여 기간에 따른 할인율 적용

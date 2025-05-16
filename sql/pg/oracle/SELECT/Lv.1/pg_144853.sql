@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/144853?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/144853?language=oracle
 -- 간단한 문제 설명 : 
 --   2021년에 출판된 인문 카테고리 도서의 ID와 출판일을 출판일 오름차순으로 조회
 --

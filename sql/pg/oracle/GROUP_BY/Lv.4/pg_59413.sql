@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59413
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59413
 -- 간단한 문제 설명 : 
 --   - 0-23시까지 시간대별 입양 건수 조회
 --   - 입양 없는 시간대도 0으로 표시

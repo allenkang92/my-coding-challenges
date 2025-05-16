@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/157343?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/157343?language=oracle
 -- 간단한 문제 설명 : 
 --   자동차 대여 회사의 자동차 중 네비게이션 옵션이 포함된 차량을 조회합니다.
 --

@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/164672?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/164672?language=oracle
 -- 간단한 문제 설명 : 
 --   - USED_GOODS_BOARD 테이블에서 특정 날짜에 등록된 중고거래 게시물의 정보를 조회
 --   - 거래 상태를 이해하기 쉬운 한글로 변환

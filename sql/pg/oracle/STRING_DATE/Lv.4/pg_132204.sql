@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/132204
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/132204
 -- 간단한 문제 설명 : 
 --   - 2022년 4월 13일 취소되지 않은 흉부외과(CS) 진료 예약 조회
 --   - 예약시간 기준 오름차순 정렬

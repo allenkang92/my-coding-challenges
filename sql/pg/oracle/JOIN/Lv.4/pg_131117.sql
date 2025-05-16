@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131117
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131117
 -- 간단한 문제 설명 : 
 --   - FOOD_PRODUCT와 FOOD_ORDER 테이블을 이용하여 2022년 5월 생산된 식품들의 총매출을 조회.
 --   - 결과는 PRODUCT_ID, PRODUCT_NAME, TOTAL_SALES를 출력.

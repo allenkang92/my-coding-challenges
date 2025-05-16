@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131697?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131697?language=oracle
 -- 간단한 문제 설명 : 
 --   PRODUCT 테이블에서 가장 높은 판매가를 조회합니다.
 --

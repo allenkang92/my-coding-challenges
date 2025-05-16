@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131536?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131536?language=oracle
 -- 간단한 문제 설명 :
 --   - ONLINE_SALE 테이블에서 동일한 회원이 동일한 상품을 재구매한 데이터를 구함
 --   - 재구매한 회원 ID와 재구매한 상품 ID를 출력

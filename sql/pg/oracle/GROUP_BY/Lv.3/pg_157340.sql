@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/157340
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/157340
 -- 간단한 문제 설명 : 
 --   - CAR_RENTAL_COMPANY_RENTAL_HISTORY 테이블을 이용하여 특정 날짜(2022-10-16)에 대여 중인 자동차는 '대여중', 그렇지 않은 자동차는 '대여 가능'으로 표시.
 --   - 자동차 ID와 AVAILABILITY를 출력하며, 자동차 ID를 기준으로 내림차순 정렬.

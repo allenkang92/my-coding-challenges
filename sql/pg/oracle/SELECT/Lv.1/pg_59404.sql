@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59404?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59404?language=oracle
 -- 간단한 문제 설명 : 
 --   동물의 아이디, 이름, 보호 시작일을 이름 순으로 조회하되,
 --   이름이 같은 동물은 보호 시작일 역순으로 정렬합니다.

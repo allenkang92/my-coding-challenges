@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59415?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59415?language=oracle
 -- 간단한 문제 설명 : 
 --   동물 보호소에 가장 최근에 들어온 동물의 입소 시간을 조회합니다.
 --

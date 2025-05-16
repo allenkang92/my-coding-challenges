@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/133026?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/133026?language=oracle
 -- 간단한 문제 설명 : 
 --   - FIRST_HALF 테이블과 ICECREAM_INFO 테이블을 활용하여 상반기 동안 각 아이스크림 성분 타입별 총 주문량을 계산
 --   - 총 주문량이 작은 순서대로 결과를 정렬하며, 총 주문량을 나타내는 컬럼명은 TOTALORDER로 지정

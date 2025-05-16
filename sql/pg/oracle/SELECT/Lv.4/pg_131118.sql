@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131118
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131118
 -- 간단한 문제 설명 : 
 --   - REST_INFO와 REST_REVIEW 테이블에서 서울 지역 식당의 정보와 평균 리뷰 점수 조회
 --   - 평균 점수는 소수점 3자리에서 반올림

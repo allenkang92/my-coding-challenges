@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131115?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131115?language=oracle
 -- 간단한 문제 설명 : 
 --   - FOOD_PRODUCT 테이블에서 가격이 가장 비싼 식품의 정보를 조회
 --   - 결과 컬럼명은 문제에 맞게 지정 (예: PRODUCT_ID, PRODUCT_NAME, PRODUCT_CD, CATEGORY, PRICE)

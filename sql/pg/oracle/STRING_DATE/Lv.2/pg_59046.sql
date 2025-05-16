@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59046?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59046?language=oracle
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블에서 이름이 'Lucy' 또는 'Ella'인 동물의 ANIMAL_ID, NAME, SEX_UPON_INTAKE를 조회
 --   - 결과는 ANIMAL_ID를 기준으로 오름차순 정렬

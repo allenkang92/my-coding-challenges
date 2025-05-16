@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59408?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59408?language=oracle
 -- 간단한 문제 설명 :
 --   - ANIMAL_INS 테이블에서 동물의 이름이 NULL이 아닌 경우 중복을 제거한 이름의 수를 조회
 --   - 결과 컬럼명은 'count'로 지정

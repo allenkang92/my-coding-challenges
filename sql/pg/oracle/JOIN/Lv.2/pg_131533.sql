@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131533?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131533?language=oracle
 -- 간단한 문제 설명 : 
 --   - PRODUCT 테이블과 OFFLINE_SALE 테이블을 조인하여 상품코드 별 매출액 합계를 조회
 --   - 매출액은 판매가(PRICE) * 판매량(SALES_AMOUNT)으로 계산

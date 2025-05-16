@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59045
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59045
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS와 ANIMAL_OUTS 테이블을 이용하여 보호소에 들어올 당시 중성화되지 않았지만, 보호소를 나갈 때 중성화된 동물들의 정보를 조회.
 --   - 보호소에 들어온 동물의 ANIMAL_ID, ANIMAL_TYPE, NAME을 출력.

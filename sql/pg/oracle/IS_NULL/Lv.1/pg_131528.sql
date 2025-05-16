@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131528?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131528?language=oracle
 -- 간단한 문제 설명 :
 --   USER_INFO 테이블에서 나이(AGE)가 NULL인 회원 수를 'USERS'라는 컬럼명으로 조회
 --

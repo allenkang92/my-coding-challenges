@@ -1,4 +1,4 @@
--- 문제 링크 (주석): https://school.programmers.co.kr/learn/courses/30/lessons/144855?language=oracle
+-- 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/144855?language=oracle
 -- 간단한 문제 설명 : 
 --   - BOOK과 BOOK_SALES 테이블을 활용하여 2022년 1월의 카테고리 별 도서 판매량을 합산
 --   - 카테고리명과 총 판매량을 출력하며, 카테고리명을 기준으로 오름차순 정렬

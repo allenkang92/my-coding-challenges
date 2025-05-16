@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/151136?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/151136?language=oracle
 -- 간단한 문제 설명 : 
 --   SUV 차량의 평균 일일 대여 요금을 계산하여 반올림한 값을 출력
 --

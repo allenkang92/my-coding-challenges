@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/151138?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/151138?language=oracle
 -- 간단한 문제 설명 : 
 --   - CAR_RENTAL_COMPANY_RENTAL_HISTORY 테이블에서 2022년 9월에 시작된 기록만 조회
 --   - (END_DATE - START_DATE + 1)로 대여 일수 계산

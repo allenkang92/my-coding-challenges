@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59039?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59039?language=oracle
 -- 간단한 문제 설명 :
 --   ANIMAL_INS 테이블에서 NAME이 NULL인 동물의 ID만 조회하고, 결과를 ANIMAL_ID 오름차순으로 정렬.
 --

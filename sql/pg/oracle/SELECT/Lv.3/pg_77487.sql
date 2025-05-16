@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/77487
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/77487
 -- 간단한 문제 설명 : 
 --   - PLACES 테이블을 활용하여 두 개 이상 공간을 등록한 "헤비 유저"가 소유한 장소 정보를 조회
 --   - 조회 항목: ID, NAME, HOST_ID

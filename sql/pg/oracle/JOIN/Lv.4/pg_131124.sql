@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131124
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131124
 -- 간단한 문제 설명 : 
 --   - 리뷰를 가장 많이 작성한 회원의 리뷰 조회
 --   - 회원이름, 리뷰텍스트, 작성일 출력

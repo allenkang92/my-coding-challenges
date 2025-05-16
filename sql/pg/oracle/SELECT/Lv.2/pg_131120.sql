@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131120?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131120?language=oracle
 -- 간단한 문제 설명 : 
 --   - MEMBER_PROFILE 테이블에서 생일이 3월인 여성 회원의 ID, 이름, 성별 및 생년월일을 조회
 --   - 전화번호(TLNO)가 NULL인 경우 제외

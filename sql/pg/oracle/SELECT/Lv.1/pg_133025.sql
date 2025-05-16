@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/133025?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/133025?language=oracle
 -- 간단한 문제 설명 : 
 --   총주문량이 3,000 초과이면서 과일 기반인 아이스크림을 주문량 내림차순으로 조회
 --

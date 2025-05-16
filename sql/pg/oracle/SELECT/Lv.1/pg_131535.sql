@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131535?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131535?language=oracle
 -- 간단한 문제 설명 :
 --   USER_INFO 테이블에서 2021년에 가입한 회원 중 나이가 20~29세인 회원 수를 조회해야 합니다.
 --

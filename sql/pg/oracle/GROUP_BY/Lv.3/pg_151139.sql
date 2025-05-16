@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/151139
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/151139
 -- 간단한 문제 설명 : 
 --   - CAR_RENTAL_COMPANY_RENTAL_HISTORY 테이블을 이용하여 2022년 8월부터 10월까지 대여 횟수가 5회 이상인 자동차들의 월별 대여 횟수를 조회.
 --   - 월별 자동차 ID별 총 대여 횟수(RECORDS)를 출력.

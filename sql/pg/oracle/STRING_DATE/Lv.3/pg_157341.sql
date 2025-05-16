@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/157341
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/157341
 -- 간단한 문제 설명 :
 --   - CAR_RENTAL_COMPANY_CAR 테이블과 CAR_RENTAL_COMPANY_RENTAL_HISTORY 테이블 전적을 활용
 --   - 10월에 대여를 시작한 (START_DATE) '세단' 자동차들의 CAR_ID를 내림차순 정렬, 중복 없이 출력

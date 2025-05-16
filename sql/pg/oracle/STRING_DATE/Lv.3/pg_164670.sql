@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/164670
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/164670
 -- 간단한 문제 설명 : 
 --   - USED_GOODS_BOARD 테이블과 USED_GOODS_USER 테이블을 활용하여 중고 거래 게시물을 3건 이상 등록한 사용자의 정보 조회
 --   - 조회 항목: 사용자 ID, 닉네임, 전체 주소, 전화번호

@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/164671
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/164671
 -- 간단한 문제 설명 : 
 --   - USED_GOODS_BOARD 테이블과 USED_GOODS_FILE 테이블을 활용하여 조회수가 가장 높은 중고거래 게시물의 첨부파일 경로를 조회
 --   - 첨부파일 경로는 기본 경로에 게시글 ID와 파일 정보를 결합하여 생성

@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/132202
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/132202
 -- 간단한 문제 설명 : 
 --   - APPOINTMENT 테이블에서 2022년 5월에 예약한 환자 수를 진료과코드별로 조회
 --   - 이름이 없는 동물은 제외

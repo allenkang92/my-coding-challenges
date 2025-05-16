@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59410?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59410?language=oracle
 -- 간단한 문제 설명 :
 --   - ANIMAL_INS 테이블에서 동물의 생물 종, 이름, 성별 및 중성화 여부를 조회
 --   - 이름이 없는 동물의 경우, 이름을 'No name'으로 표시

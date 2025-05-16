@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/132201?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/132201?language=oracle
 -- 간단한 문제 설명 : 
 --   PATIENT 테이블에서 12세 이하인 여자 환자의 환자이름, 환자번호, 성별코드, 나이, 전화번호를 조회해야 합니다.
 --   전화번호가 없는 경우 'NONE'으로 표시합니다.

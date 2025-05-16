@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/133027
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/133027
 -- 간단한 문제 설명 : 
 --   - 상반기와 7월 아이스크림 주문량 합계가 많은 상위 3개 맛 조회
 --   - 같은 맛이라도 다른 출하번호를 가질 수 있음

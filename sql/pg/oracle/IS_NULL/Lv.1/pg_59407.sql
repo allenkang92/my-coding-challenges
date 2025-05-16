@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59407?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59407?language=oracle
 -- 간단한 문제 설명 : 
 --   동물 보호소에 들어온 동물 중 이름이 있는 동물의 ID를 조회합니다.
 --

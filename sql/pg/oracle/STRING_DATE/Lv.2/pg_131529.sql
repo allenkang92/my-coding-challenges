@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131529?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131529?language=oracle
 -- 간단한 문제 설명 : 
 --   - PRODUCT 테이블에서 상품 카테고리 코드(PRODUCT_CODE 앞 2자리) 별 상품 개수를 조회
 --   - 결과는 카테고리 코드를 기준으로 오름차순 정렬

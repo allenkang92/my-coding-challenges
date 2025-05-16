@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/62284
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/62284
 -- 간단한 문제 설명 : 
 --   - 우유와 요거트를 동시에 구매한 장바구니 ID 조회
 --   - 장바구니 ID 오름차순 정렬 필요

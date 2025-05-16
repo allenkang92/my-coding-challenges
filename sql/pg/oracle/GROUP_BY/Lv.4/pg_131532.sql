@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/131532
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/131532
 -- 간단한 문제 설명 : 
 --   - 년, 월, 성별별 상품 구매 회원수 집계
 --   - 성별 정보 없는 경우 제외

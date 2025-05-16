@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59043
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59043
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블과 ANIMAL_OUTS 테이블을 활용하여 관리자의 실수로 일부 동물의 입양일이 보호 시작일보다 빠르게 입력된 동물의 정보를 조회
 --   - 조회 항목: ANIMAL_ID, NAME

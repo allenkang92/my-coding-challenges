@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59040?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59040?language=oracle
 -- 간단한 문제 설명 : 
 -- 테이블 스키마 :
 --   - 테이블명 : 

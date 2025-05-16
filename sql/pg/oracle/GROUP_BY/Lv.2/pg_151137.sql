@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/151137?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/151137?language=oracle
 -- 간단한 문제 설명 : 
 --   - CAR_RENTAL_COMPANY_CAR 테이블에서 '통풍시트', '열선시트', '가죽시트' 중 하나 이상의 옵션이 포함된 자동차가 
 --     자동차 종류 별로 몇 대인지 조회

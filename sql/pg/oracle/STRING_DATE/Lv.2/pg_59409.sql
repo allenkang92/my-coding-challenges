@@ -1,4 +1,4 @@
--- 문제 링크 (주석) : https://school.programmers.co.kr/learn/courses/30/lessons/59409?language=oracle
+-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/59409?language=oracle
 -- 간단한 문제 설명 : 
 --   - ANIMAL_INS 테이블에서 모든 동물의 ANIMAL_ID, NAME, 중성화 여부를 조회
 --   - 중성화 여부는 SEX_UPON_INTAKE 컬럼에 'Neutered' 또는 'Spayed'가 포함되는지로 판단
