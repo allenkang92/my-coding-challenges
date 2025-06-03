@@ -5,21 +5,3 @@
 
 x, y, w, h = map(int, input().split(" "))
 
-rec_one = []
-rec_two = []
-rec_three = []
-rec_four = []
-
-person_position = [x, y]
-
-for i in range(h+1):
-    for j in range(w+1):
-        rec_one.append((0, i))
-        rec_two.append((j, h))
-        rec_three.append((w, i))
-        rec_four.append((j, 0))
-
-print(rec_one)
-
-# 6 2 10 3
-# 1
